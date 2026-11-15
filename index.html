@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Zooov — Catalogue</title>
+<meta name="description" content="Zooov — Echoes of Life. Wedding return gifts, potlis, steel boxes, platters, bags and more. Browse and order on WhatsApp.">
+<meta property="og:title" content="Zooov Catalogue — Echoes of Life">
+<meta property="og:description" content="Wedding return gifts, potlis, steel boxes, platters & more. Tap any design to order on WhatsApp.">
+<meta property="og:image" content="assets/logo.png">
+<meta name="theme-color" content="#262262">
+<link rel="icon" href="assets/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --navy:#262262; --navy-2:#332e7a; --navy-soft:#ecebf7;
+  --orange:#ff3700; --yellow:#ffd700;
+  --bg:#f7f6fc; --card:#fff; --ink:#1d1a45; --muted:#6c6990; --line:#e3e1f1;
+  --wa:#1faa53;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:Poppins,system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5;-webkit-tap-highlight-color:transparent}
+a{color:inherit;text-decoration:none}
+button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
+h1,h2,h3,.brand{font-family:Fredoka,Poppins,sans-serif}
+
+/* ---------- header ---------- */
+header{background:var(--navy);color:#fff;position:sticky;top:0;z-index:20;box-shadow:0 2px 12px rgba(20,16,70,.25)}
+.hbar{max-width:1180px;margin:0 auto;display:flex;align-items:center;gap:12px;padding:10px 16px}
+.logo{width:46px;height:46px;border-radius:50%;flex:none}
+.brand{font-size:1.5rem;font-weight:700;letter-spacing:.5px;line-height:1}
+.brand small{display:block;font-family:Poppins;font-size:.68rem;font-weight:500;color:var(--yellow);letter-spacing:2px;margin-top:3px}
+.hspace{flex:1}
+.hwa{background:var(--wa);color:#fff;font-weight:600;font-size:.82rem;padding:9px 14px;border-radius:999px;white-space:nowrap}
+.searchwrap{max-width:1180px;margin:0 auto;padding:0 16px 12px}
+.search{width:100%;padding:11px 16px 11px 40px;border-radius:12px;border:0;font:inherit;font-size:.92rem;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='none' stroke='%236c6990' stroke-width='2'%3E%3Ccircle cx='8' cy='8' r='6'/%3E%3Cpath d='m13 13 4 4'/%3E%3C/svg%3E") 14px center no-repeat;outline:none}
+.search:focus{box-shadow:0 0 0 3px var(--yellow)}
+.stripe{height:5px;background:linear-gradient(90deg,var(--orange) 0 33%,var(--yellow) 33% 66%,#fff 66%)}
+
+main{max-width:1180px;margin:0 auto;padding:18px 16px 120px;min-height:70vh}
+
+/* ---------- hero ---------- */
+.hero{position:relative;overflow:hidden;background:var(--navy);color:#fff;border-radius:22px;padding:28px 22px;display:flex;align-items:center;gap:20px;margin-bottom:26px}
+.hero:before{content:"";position:absolute;right:-60px;top:-60px;width:220px;height:220px;border-radius:50%;background:var(--navy-2)}
+.hero:after{content:"";position:absolute;right:40px;bottom:-30px;width:0;height:0;border-left:60px solid transparent;border-bottom:90px solid var(--yellow);opacity:.9}
+.hero img{width:110px;height:110px;border-radius:50%;position:relative;z-index:1;flex:none;box-shadow:0 0 0 5px rgba(255,255,255,.12)}
+.hero h1{font-size:1.75rem;line-height:1.15;position:relative;z-index:1}
+.hero h1 span{color:var(--yellow)}
+.hero p{opacity:.85;font-size:.9rem;margin-top:6px;position:relative;z-index:1;max-width:460px}
+.tri{display:inline-block;width:0;height:0;border-top:7px solid transparent;border-bottom:7px solid transparent;border-left:11px solid var(--orange);margin-right:8px;vertical-align:middle}
+
+.sechead{display:flex;align-items:center;justify-content:space-between;margin:6px 0 14px}
+.sechead h2{font-size:1.35rem}
+.crumbs{font-size:.82rem;color:var(--muted);margin-bottom:10px}
+.crumbs a{color:var(--navy);font-weight:600}
+.crumbs a:hover{text-decoration:underline}
+
+/* ---------- category grid ---------- */
+.cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}
+.cat{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px 14px;display:flex;flex-direction:column;gap:8px;position:relative;overflow:hidden;transition:transform .15s,box-shadow .15s;min-height:132px}
+.cat:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(38,34,98,.12)}
+.cat .ic{width:46px;height:46px;border-radius:14px;background:var(--navy-soft);display:flex;align-items:center;justify-content:center;font-size:1.5rem}
+.cat h3{font-size:1rem;line-height:1.25;font-weight:600}
+.cat .meta{font-size:.74rem;color:var(--muted);margin-top:auto}
+.cat.live{background:var(--navy);color:#fff;border-color:var(--navy);grid-column:span 2}
+.cat.live .ic{background:var(--yellow)}
+.cat.live .meta{color:var(--yellow);font-weight:600}
+.cat.live:after{content:"";position:absolute;right:-18px;bottom:-18px;width:0;height:0;border-left:70px solid transparent;border-bottom:70px solid var(--orange)}
+.soon{display:inline-block;font-size:.66rem;font-weight:600;background:#fff4c2;color:#7a5d00;padding:2px 8px;border-radius:999px;width:fit-content}
+
+/* ---------- sub-category tiles ---------- */
+.group{margin:22px 0 10px;font-size:1.05rem;display:flex;align-items:center}
+.sgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+.sub{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;transition:transform .15s,box-shadow .15s}
+.sub:hover{transform:translateY(-2px);box-shadow:0 8px 22px rgba(38,34,98,.12)}
+.sub .ph{aspect-ratio:4/3;background:#eee center/cover no-repeat}
+.sub .tx{padding:10px 12px 12px}
+.sub h3{font-size:.95rem;font-weight:600;line-height:1.25}
+.sub .meta{font-size:.74rem;color:var(--muted);margin-top:3px}
+.sub .from{font-size:.8rem;font-weight:600;color:var(--orange);margin-top:2px}
+
+/* ---------- products ---------- */
+.subhead{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px 18px;margin-bottom:16px;display:flex;flex-wrap:wrap;gap:6px 16px;align-items:baseline}
+.subhead h2{font-size:1.4rem}
+.subhead .meta{font-size:.82rem;color:var(--muted)}
+.pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(165px,1fr));gap:12px}
+.prod{background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column}
+.prod .ph{aspect-ratio:1/1;background:#f0eff7;display:block;width:100%;overflow:hidden}
+.prod .ph img{width:100%;height:100%;object-fit:cover;display:block}
+.prod .bd{padding:10px 11px 12px;display:flex;flex-direction:column;gap:3px;flex:1}
+.code{font-size:.7rem;font-weight:700;letter-spacing:.6px;color:var(--navy);background:var(--navy-soft);padding:2px 8px;border-radius:6px;width:fit-content}
+.price{font-family:Poppins,sans-serif;font-size:1.02rem;font-weight:600;color:var(--orange);margin-top:4px}
+.desc{font-size:.74rem;color:var(--muted);line-height:1.35}
+.acts{display:flex;gap:6px;margin-top:auto;padding-top:9px}
+.btn{flex:1;text-align:center;font-weight:600;font-size:.78rem;padding:8px 6px;border-radius:10px}
+.btn.wa{background:var(--wa);color:#fff}
+.btn.add{background:var(--navy-soft);color:var(--navy)}
+.btn.add.on{background:var(--yellow);color:var(--navy)}
+.empty{text-align:center;padding:60px 20px;color:var(--muted)}
+.empty .big{font-size:3rem}
+.empty h3{color:var(--ink);font-size:1.2rem;margin:8px 0 4px}
+
+/* ---------- enquiry list ---------- */
+.fab{position:fixed;left:50%;transform:translateX(-50%);bottom:16px;z-index:30;background:var(--navy);color:#fff;font-weight:600;padding:12px 20px;border-radius:999px;box-shadow:0 8px 24px rgba(20,16,70,.35);display:none;align-items:center;gap:10px;font-size:.9rem}
+.fab .n{background:var(--yellow);color:var(--navy);border-radius:999px;min-width:24px;height:24px;display:inline-flex;align-items:center;justify-content:center;font-size:.8rem;padding:0 6px}
+.sheet-bg{position:fixed;inset:0;background:rgba(15,12,50,.55);z-index:40;display:none}
+.sheet{position:fixed;left:0;right:0;bottom:0;z-index:41;background:#fff;border-radius:22px 22px 0 0;max-height:85vh;display:none;flex-direction:column;max-width:640px;margin:0 auto}
+.sheet header{position:static;background:var(--navy);border-radius:22px 22px 0 0;padding:14px 18px;display:flex;align-items:center;justify-content:space-between;box-shadow:none}
+.sheet header h3{font-size:1.1rem}
+.sheet .list{overflow:auto;padding:8px 14px}
+.li{display:flex;gap:10px;align-items:center;padding:10px 0;border-bottom:1px solid var(--line)}
+.li img{width:54px;height:54px;border-radius:10px;object-fit:cover;flex:none}
+.li .t{flex:1;min-width:0;font-size:.82rem}
+.li .t b{display:block;font-size:.85rem}
+.li input{width:70px;padding:7px;border:1px solid var(--line);border-radius:8px;font:inherit;font-size:.85rem;text-align:center}
+.li .x{color:var(--muted);font-size:1.2rem;padding:4px 8px}
+.sheet .foot{padding:12px 14px 18px;display:flex;flex-direction:column;gap:8px}
+.sheet .foot input{padding:10px 12px;border:1px solid var(--line);border-radius:10px;font:inherit;font-size:.88rem}
+.sheet .foot .btn{padding:12px;font-size:.92rem}
+
+/* ---------- lightbox ---------- */
+.lb{position:fixed;inset:0;background:rgba(10,8,35,.92);z-index:50;display:none;align-items:center;justify-content:center;flex-direction:column;padding:16px}
+.lb img{max-width:100%;max-height:72vh;border-radius:12px}
+.lb .cap{color:#fff;text-align:center;margin-top:12px}
+.lb .cap b{font-family:Poppins;font-size:1.2rem;color:var(--yellow)}
+.lb .nav{position:absolute;top:50%;transform:translateY(-50%);color:#fff;font-size:2rem;padding:10px 14px;background:rgba(255,255,255,.1);border-radius:50%}
+.lb .prev{left:10px}.lb .next{right:10px}
+.lb .close{position:absolute;top:12px;right:16px;color:#fff;font-size:1.8rem}
+.lb .btn{margin-top:12px;flex:none;padding:10px 22px}
+
+footer{background:var(--navy);color:#cfcde8;text-align:center;font-size:.8rem;padding:22px 16px 90px}
+footer b{color:#fff;font-family:Poppins;font-size:1rem}
+
+@media(min-width:720px){
+  .cgrid{grid-template-columns:repeat(auto-fill,minmax(190px,1fr))}
+  .sgrid{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+  .pgrid{grid-template-columns:repeat(auto-fill,minmax(210px,1fr))}
+  .hero{padding:36px 34px}
+  .hero h1{font-size:2.3rem}
+  .hero img{width:140px;height:140px}
+}
+@media(max-width:560px){.hwa .lbl{display:none}.brand{font-size:1.3rem}.hero{padding:24px 20px}.hero img{display:none}.hero h1{font-size:1.5rem}.hero p{font-size:.85rem}}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="hbar">
+    <a href="#/" style="display:flex;align-items:center;gap:10px">
+      <img class="logo" src="assets/logo.png" alt="Zooov logo">
+      <div class="brand">Zooov<small>ECHOES OF LIFE</small></div>
+    </a>
+    <div class="hspace"></div>
+    <a class="hwa" id="hwa" target="_blank" rel="noopener">💬 <span class="lbl">WhatsApp</span></a>
+  </div>
+  <div class="searchwrap"><input class="search" id="q" type="search" placeholder="Search products or design code (e.g. potli, P5-12)"></div>
+  <div class="stripe"></div>
+</header>
+
+<main id="app"></main>
+
+<footer>
+  <b>Zooov</b> · Echoes of Life<br>
+  Bulk & wedding orders welcome · Prices may vary with quantity · Shipping extra
+</footer>
+
+<button class="fab" id="fab">🧾 Enquiry list <span class="n" id="fabn">0</span></button>
+<div class="sheet-bg" id="sbg"></div>
+<div class="sheet" id="sheet">
+  <header><h3>Your enquiry list</h3><button id="sclose" style="color:#fff;font-size:1.5rem">×</button></header>
+  <div class="list" id="slist"></div>
+  <div class="foot">
+    <input id="sname" placeholder="Your name (optional)">
+    <a class="btn wa" id="ssend" target="_blank" rel="noopener">Send list on WhatsApp</a>
+    <button class="btn add" id="sclear">Clear list</button>
+  </div>
+</div>
+
+<div class="lb" id="lb">
+  <button class="close" id="lbx">×</button>
+  <button class="nav prev" id="lbp">‹</button>
+  <img id="lbi" alt="">
+  <div class="cap" id="lbc"></div>
+  <a class="btn wa" id="lbw" target="_blank" rel="noopener">Order on WhatsApp</a>
+  <button class="nav next" id="lbn">›</button>
+</div>
+
+<script src="data.js"></script>
+<script>
+const $=s=>document.querySelector(s);
+const app=$("#app");
+const esc=s=>String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const wa=t=>`https://wa.me/${SETTINGS.whatsapp}?text=${encodeURIComponent(t)}`;
+const img=(sub,i)=>`img/${sub.slug}/${String(i+1).padStart(2,"0")}.jpg`;
+const num=p=>parseInt((p.match(/[\d,]+/)||["0"])[0].replace(/,/g,""));
+const allSubs=[];CATEGORIES.forEach(c=>c.subs.forEach(s=>allSubs.push({...s,cat:c})));
+const total=allSubs.reduce((a,s)=>a+s.items.length,0);
+$("#hwa").href=wa("Hi Zooov! I'd like to know more about your products.");
+
+/* ---------- enquiry list ---------- */
+let list=[];try{list=JSON.parse(localStorage.getItem("zooov_list")||"[]")}catch(e){}
+function save(){try{localStorage.setItem("zooov_list",JSON.stringify(list))}catch(e){} updFab()}
+function updFab(){ $("#fabn").textContent=list.length; $("#fab").style.display=list.length?"flex":"none" }
+function inList(c){return list.some(x=>x.c===c)}
+function toggle(c,btn){
+  const i=list.findIndex(x=>x.c===c);
+  if(i>-1) list.splice(i,1);
+  else{ const f=findCode(c); list.push({c,t:f.sub.t,p:f.it.p,img:f.img,q:""}) }
+  save(); if(btn){btn.classList.toggle("on",inList(c));btn.textContent=inList(c)?"✓ Added":"+ List"}
+}
+function findCode(c){for(const s of allSubs){const i=s.items.findIndex(x=>x.c===c);if(i>-1)return{sub:s,it:s.items[i],i,img:img(s,i)}}}
+function renderSheet(){
+  $("#slist").innerHTML=list.length?list.map((x,i)=>`<div class="li"><img src="${x.img}" alt=""><div class="t"><b>${esc(x.c)}</b>${esc(x.t)} · ${esc(x.p)}</div><input type="number" min="1" placeholder="Qty" value="${esc(x.q)}" data-i="${i}"><button class="x" data-r="${i}">×</button></div>`).join(""):`<div class="empty" style="padding:30px">Your list is empty.</div>`;
+  const lines=list.map((x,i)=>`${i+1}. ${x.c} – ${x.t} (${x.p})${x.q?` × ${x.q} pcs`:""}`).join("\n");
+  const nm=$("#sname").value.trim();
+  $("#ssend").href=wa(`Hi Zooov!${nm?` This is ${nm}.`:""} I'd like a quote for:\n\n${lines}\n\nPlease share availability & delivery details.`);
+}
+$("#slist").addEventListener("input",e=>{if(e.target.dataset.i){list[e.target.dataset.i].q=e.target.value;save();renderSheet()}});
+$("#slist").addEventListener("click",e=>{if(e.target.dataset.r){list.splice(+e.target.dataset.r,1);save();renderSheet();route()}});
+$("#sname").addEventListener("input",renderSheet);
+const openSheet=v=>{$("#sheet").style.display=$("#sbg").style.display=v?"flex":"none";$("#sbg").style.display=v?"block":"none";if(v)renderSheet()};
+$("#fab").onclick=()=>openSheet(1);$("#sbg").onclick=$("#sclose").onclick=()=>openSheet(0);
+$("#sclear").onclick=()=>{list=[];save();renderSheet();route()};
+
+/* ---------- lightbox ---------- */
+let lbSub=null,lbI=0;
+function lb(sub,i){lbSub=sub;lbI=i;const it=sub.items[i];
+  $("#lbi").src=img(sub,i);$("#lbc").innerHTML=`<b>${esc(it.c)}</b> · ${esc(it.p)}<br><small>${esc(sub.t)} — ${esc(it.d)}</small>`;
+  $("#lbw").href=wa(`Hi Zooov! I'm interested in design ${it.c} (${sub.t}) – ${it.p}. Please share details.`);
+  $("#lb").style.display="flex"}
+$("#lbx").onclick=()=>$("#lb").style.display="none";
+$("#lbp").onclick=()=>lb(lbSub,(lbI-1+lbSub.items.length)%lbSub.items.length);
+$("#lbn").onclick=()=>lb(lbSub,(lbI+1)%lbSub.items.length);
+document.addEventListener("keydown",e=>{if($("#lb").style.display!=="flex")return;if(e.key==="Escape")$("#lbx").click();if(e.key==="ArrowLeft")$("#lbp").click();if(e.key==="ArrowRight")$("#lbn").click()});
+
+/* ---------- views ---------- */
+function prodCard(sub,i){const it=sub.items[i];const on=inList(it.c);
+  return `<div class="prod"><button class="ph" data-lb="${sub.slug}|${i}"><img loading="lazy" src="${img(sub,i)}" alt="${esc(sub.t)} ${esc(it.c)}"></button>
+  <div class="bd"><span class="code">${esc(it.c)}</span><div class="price">${esc(it.p)}</div><div class="desc">${esc(it.d)}</div>
+  <div class="acts"><a class="btn wa" target="_blank" rel="noopener" href="${wa(`Hi Zooov! I'm interested in design ${it.c} (${sub.t}) – ${it.p}. Please share details.`)}">Order</a>
+  <button class="btn add ${on?"on":""}" data-add="${it.c}">${on?"✓ Added":"+ List"}</button></div></div></div>`}
+
+function home(){
+  app.innerHTML=`<section class="hero"><img src="assets/logo.png" alt="Zooov"><div><h1>Gifts that <span>echo</span><br>every celebration</h1><p>Wedding return gifts, potlis, steel boxes, platters & more — ${total}+ designs. Tap any design to order on WhatsApp.</p></div></section>
+  <div class="sechead"><h2><span class="tri"></span>Shop by category</h2></div>
+  <div class="cgrid">${CATEGORIES.map(c=>{const n=c.subs.reduce((a,s)=>a+s.items.length,0);
+    return `<a class="cat ${n?"live":""}" href="#/c/${c.slug}"><div class="ic">${c.icon}</div><h3>${esc(c.name)}</h3><div class="meta">${n?`${c.subs.length} collections · ${n} designs`:`<span class="soon">Coming soon</span>`}</div></a>`}).join("")}</div>`;
+}
+function cat(slug){
+  const c=CATEGORIES.find(x=>x.slug===slug); if(!c) return home();
+  let h=`<div class="crumbs"><a href="#/">Home</a> › ${esc(c.name)}</div><div class="sechead"><h2>${c.icon} ${esc(c.name)}</h2></div>`;
+  if(!c.subs.length){app.innerHTML=h+`<div class="empty"><div class="big">${c.icon}</div><h3>Coming soon</h3><p>We're adding this collection. Message us on WhatsApp for current stock.</p><br><a class="btn wa" style="display:inline-block;padding:11px 22px" target="_blank" href="${wa(`Hi Zooov! Do you have anything in ${c.name}?`)}">Ask on WhatsApp</a></div>`;return}
+  const groups=[...new Set(c.subs.map(s=>s.g))];
+  h+=groups.map(g=>`<h3 class="group"><span class="tri"></span>${esc(g)}</h3><div class="sgrid">${c.subs.filter(s=>s.g===g).map(s=>{
+    const lo=Math.min(...s.items.map(x=>num(x.p)));const unit=s.items[0].p.includes("packet")?" / packet":"";
+    return `<a class="sub" href="#/s/${s.slug}"><div class="ph" style="background-image:url('${img(s,0)}')"></div><div class="tx"><h3>${esc(s.t)}</h3><div class="from">From Rs. ${lo}${unit}</div><div class="meta">${s.items.length} designs</div></div></a>`}).join("")}</div>`).join("");
+  app.innerHTML=h;
+}
+function sub(slug){
+  const s=allSubs.find(x=>x.slug===slug); if(!s) return home();
+  app.innerHTML=`<div class="crumbs"><a href="#/">Home</a> › <a href="#/c/${s.cat.slug}">${esc(s.cat.name)}</a> › ${esc(s.t)}</div>
+  <div class="subhead"><h2>${esc(s.t)}</h2><span class="meta">${s.items.length} designs · Code ${esc(s.code)}-xx</span></div>
+  <div class="pgrid">${s.items.map((_,i)=>prodCard(s,i)).join("")}</div>`;
+}
+function search(q){
+  q=q.toLowerCase();const res=[];
+  allSubs.forEach(s=>s.items.forEach((it,i)=>{if((s.t+" "+it.c+" "+it.d+" "+s.g+" "+s.cat.name).toLowerCase().includes(q))res.push([s,i])}));
+  app.innerHTML=`<div class="crumbs"><a href="#/">Home</a> › Search</div><div class="sechead"><h2>${res.length} result${res.length===1?"":"s"} for “${esc(q)}”</h2></div>`+
+   (res.length?`<div class="pgrid">${res.slice(0,240).map(([s,i])=>prodCard(s,i)).join("")}</div>`:`<div class="empty"><div class="big">🔍</div><h3>No matches</h3><p>Try another word, or ask us on WhatsApp.</p></div>`);
+}
+function route(){
+  const q=$("#q").value.trim(); if(q.length>1) return search(q);
+  const [,a,b]=(location.hash.match(/^#\/(c|s)\/(.+)$/)||[]);
+  if(a==="c")cat(b);else if(a==="s")sub(b);else home();
+}
+app.addEventListener("click",e=>{
+  const ad=e.target.closest("[data-add]"); if(ad){e.preventDefault();toggle(ad.dataset.add,ad);return}
+  const l=e.target.closest("[data-lb]"); if(l){const[sl,i]=l.dataset.lb.split("|");lb(allSubs.find(x=>x.slug===sl),+i)}
+});
+let t;$("#q").addEventListener("input",()=>{clearTimeout(t);t=setTimeout(route,200)});
+window.addEventListener("hashchange",()=>{$("#q").value="";route();window.scrollTo(0,0)});
+updFab();route();
+</script>
+</body>
+</html>
