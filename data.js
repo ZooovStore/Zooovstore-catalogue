@@ -1339,6 +1339,119 @@ const CATEGORIES = [
 ]
 },
 {
+"g": "Potlis",
+"t": "Potli Box Combo 250gm",
+"code": "PBC",
+"slug": "pbc",
+"items": [
+{
+"c": "PBC-01",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-02",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-03",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-04",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-05",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-06",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-07",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-08",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-09",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-10",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-11",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-12",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-13",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-14",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-15",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-16",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-17",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-18",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-19",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-20",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+},
+{
+"c": "PBC-21",
+"p": "Rs. 170/- per combo",
+"d": "Potli + 250 gm Steel Box"
+}
+]
+},
+{
 "g": "Bags & Covers",
 "t": "Chudi Bag Print",
 "code": "CB",
@@ -2254,6 +2367,237 @@ const CATEGORIES = [
 "c": "PS-15",
 "p": "Rs. 130/- per set",
 "d": "Papad Cover (11 inch) + Mangori Potli | MOQ: 25 sets"
+}
+]
+},
+{
+"g": "Envelopes",
+"t": "Coin Envelope",
+"code": "CE",
+"slug": "ce",
+"items": [
+{
+"c": "CE-01",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-02",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-03",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-04",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-05",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-06",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-07",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-08",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-09",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-10",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-11",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-12",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-13",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-14",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-15",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-16",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-17",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+},
+{
+"c": "CE-18",
+"p": "Rs. 49/- each",
+"d": "Coin Envelope | MOQ: 20 pcs"
+}
+]
+},
+{
+"g": "Envelopes",
+"t": "Envelope Long",
+"code": "EL",
+"slug": "el",
+"items": [
+{
+"c": "EL-01",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-02",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-03",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-04",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-05",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-06",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-07",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-08",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-09",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-10",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-11",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-12",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-13",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-14",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-15",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-16",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-17",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-18",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-19",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-20",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-21",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-22",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-23",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-24",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-25",
+"p": "Rs. 65/- each",
+"d": "Long Envelope, assorted colours | MOQ: 20 pcs"
 }
 ]
 },
@@ -3425,6 +3769,114 @@ const CATEGORIES = [
 "c": "PH-14",
 "p": "Rs. 2500/- per packet",
 "d": "1 Packet = 50 Pieces"
+}
+]
+},
+{
+"g": "Shringar & Accessories",
+"t": "Welcome Patke",
+"code": "WP",
+"slug": "wp",
+"items": [
+{
+"c": "WP-01",
+"p": "Rs. 79/- each",
+"d": "Welcome Patka, 56 inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-02",
+"p": "Rs. 69/- each",
+"d": "Welcome Patka, 56+ inch long, 2 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-03",
+"p": "Rs. 95/- each",
+"d": "Welcome Patka, 58+ inch long, 2.5 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-04",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-05",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-06",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-07",
+"p": "Rs. 69/- each",
+"d": "Welcome Patka, 56 inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-08",
+"p": "Rs. 69/- each",
+"d": "Welcome Patka, 56 inch long, 2.5 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-09",
+"p": "Rs. 69/- each",
+"d": "Welcome Patka, 56 inch long, 2.5 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-10",
+"p": "Rs. 69/- each",
+"d": "Welcome Patka, 56 inch long, 2.5 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-11",
+"p": "Rs. 69/- each",
+"d": "Welcome Patka, 56 inch long, 2.5 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-12",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-13",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 56 inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-14",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long | MOQ: 50 pcs"
+},
+{
+"c": "WP-15",
+"p": "Rs. 65/- each",
+"d": "Welcome Patka, 56 inch long, 2.5 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-16",
+"p": "Rs. 65/- each",
+"d": "Welcome Patka, 56 inch long, 2.5 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-17",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long, 1.25 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-18",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long, 1.25 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-19",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55 inch long, 1.25 inch wide | MOQ: 50 pcs"
+},
+{
+"c": "WP-20",
+"p": "Rs. 50/- each",
+"d": "Welcome Patka, 55+ inch long, 1 inch wide | MOQ: 50 pcs"
 }
 ]
 }
