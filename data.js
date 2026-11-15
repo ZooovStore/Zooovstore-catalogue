@@ -1347,107 +1347,107 @@ const CATEGORIES = [
 {
 "c": "PBC-01",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-02",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-03",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-04",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-05",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-06",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-07",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-08",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-09",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-10",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-11",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-12",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-13",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-14",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-15",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-16",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-17",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-18",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-19",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-20",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 },
 {
 "c": "PBC-21",
 "p": "Rs. 170/- per combo",
-"d": "Potli + 250 gm Steel Box"
+"d": "Potli + 250 gm Steel Box | MOQ: 25 sets"
 }
 ]
 },
