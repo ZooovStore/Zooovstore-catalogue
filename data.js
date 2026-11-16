@@ -2371,6 +2371,149 @@ const CATEGORIES = [
 ]
 },
 {
+"g": "Bags & Covers",
+"t": "Zip Pouch",
+"code": "ZP",
+"slug": "zp",
+"items": [
+{
+"c": "ZP-01",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-02",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-03",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-04",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-05",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-06",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-07",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-08",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-09",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-10",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-11",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-12",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-13",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-14",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-15",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-16",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-17",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-18",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-19",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-20",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-21",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-22",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-23",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-24",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-25",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-26",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+},
+{
+"c": "ZP-27",
+"p": "Rs. 70/- each",
+"d": "Zip Pouch (6 x 8 inch) · ₹60 for 250+ pcs, ₹50 for 500+ pcs | MOQ: 30 pcs"
+}
+]
+},
+{
 "g": "Envelopes",
 "t": "Coin Envelope",
 "code": "CE",
