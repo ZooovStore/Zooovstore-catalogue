@@ -1462,6 +1462,12 @@ const CATEGORIES = [
 "n": "Banarsi Potli",
 "p": "Rs. 99/- each",
 "d": "Banarsi Potli | MOQ: 30 pcs"
+},
+{
+"c": "PB-02",
+"n": "Gota Potli",
+"p": "Rs. 99/- each",
+"d": "Gota Potli | MOQ: 30 pcs"
 }
 ]
 },
