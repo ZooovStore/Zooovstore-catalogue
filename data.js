@@ -1452,6 +1452,20 @@ const CATEGORIES = [
 ]
 },
 {
+"g": "Potlis",
+"t": "Potli Bags",
+"code": "PB",
+"slug": "pb",
+"items": [
+{
+"c": "PB-01",
+"n": "Banarsi Potli",
+"p": "Rs. 99/- each",
+"d": "Banarsi Potli | MOQ: 30 pcs"
+}
+]
+},
+{
 "g": "Bags & Covers",
 "t": "Chudi Bag Print",
 "code": "CB",
