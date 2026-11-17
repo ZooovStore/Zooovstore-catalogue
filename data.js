@@ -2747,6 +2747,12 @@ const CATEGORIES = [
 "n": "Bandhej Envelope",
 "p": "Rs. 60/- each",
 "d": "Bandhej Envelope | MOQ: 30 pcs"
+},
+{
+"c": "EL-27",
+"n": "Chand Envelope",
+"p": "Rs. 80/- each",
+"d": "Chand Envelope | MOQ: 30 pcs"
 }
 ]
 },
