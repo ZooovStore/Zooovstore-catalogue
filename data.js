@@ -2771,6 +2771,20 @@ const CATEGORIES = [
 ]
 },
 {
+"g": "Jute Bags",
+"t": "Jute Bags",
+"code": "JB",
+"slug": "jb",
+"items": [
+{
+"c": "JB-01",
+"n": "Floral Jute Clutch",
+"p": "Rs. 120/- each",
+"d": "Floral Jute Clutch | MOQ: 15 pcs"
+}
+]
+},
+{
 "g": "Thali, Platters & Boxes",
 "t": "Steel Thali",
 "code": "ST",
