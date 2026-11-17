@@ -2755,6 +2755,12 @@ const CATEGORIES = [
 "n": "Gota Bandhej File",
 "p": "Rs. 120/- each",
 "d": "Gota Bandhej File | MOQ: 30 pcs"
+},
+{
+"c": "EF-02",
+"n": "Gota Silk File",
+"p": "Rs. 120/- each",
+"d": "Gota Silk File | MOQ: 30 pcs"
 }
 ]
 },
