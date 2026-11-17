@@ -2765,6 +2765,12 @@ const CATEGORIES = [
 "n": "Lotus Envelope",
 "p": "Rs. 60/- each",
 "d": "Lotus Envelope | MOQ: 30 pcs"
+},
+{
+"c": "EL-30",
+"n": "Meenakari Envelope",
+"p": "Rs. 60/- each",
+"d": "Meenakari Envelope | MOQ: 30 pcs"
 }
 ]
 },
