@@ -2795,6 +2795,12 @@ const CATEGORIES = [
 "n": "Angoori Envelope",
 "p": "Rs. 70/- each",
 "d": "Angoori Envelope | MOQ: 30 pcs"
+},
+{
+"c": "EL-35",
+"n": "Lotus Envelope",
+"p": "Rs. 75/- each",
+"d": "Lotus Envelope | MOQ: 30 pcs"
 }
 ]
 },
