@@ -2741,6 +2741,12 @@ const CATEGORIES = [
 "c": "EL-25",
 "p": "Rs. 65/- each",
 "d": "Long Envelope, assorted colours | MOQ: 20 pcs"
+},
+{
+"c": "EL-26",
+"n": "Bandhej Envelope",
+"p": "Rs. 60/- each",
+"d": "Bandhej Envelope | MOQ: 30 pcs"
 }
 ]
 },
