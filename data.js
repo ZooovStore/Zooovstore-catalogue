@@ -2777,6 +2777,12 @@ const CATEGORIES = [
 "n": "W Envelope",
 "p": "Rs. 60/- each",
 "d": "W Envelope | MOQ: 30 pcs"
+},
+{
+"c": "EL-32",
+"n": "Gotta Envelope",
+"p": "Rs. 99/- each",
+"d": "Gotta Envelope | MOQ: 30 pcs"
 }
 ]
 },
