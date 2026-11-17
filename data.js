@@ -1486,6 +1486,12 @@ const CATEGORIES = [
 "n": "Angoori Potli",
 "p": "Rs. 89/- each",
 "d": "Angoori Potli | MOQ: 30 pcs"
+},
+{
+"c": "PB-06",
+"n": "Dholak Bag",
+"p": "Rs. 150/- each",
+"d": "Dholak Bag | MOQ: 30 pcs"
 }
 ]
 },
