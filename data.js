@@ -2783,6 +2783,12 @@ const CATEGORIES = [
 "n": "Gotta Envelope",
 "p": "Rs. 99/- each",
 "d": "Gotta Envelope | MOQ: 30 pcs"
+},
+{
+"c": "EL-33",
+"n": "Golden Lace Envelope",
+"p": "Rs. 80/- each",
+"d": "Golden Lace Envelope | MOQ: 30 pcs"
 }
 ]
 },
