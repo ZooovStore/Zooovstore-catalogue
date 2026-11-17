@@ -403,7 +403,7 @@ function cat(slug){
 }
 function sub(slug,ss){
   const c=CATEGORIES.find(x=>x.slug===slug);const s=c&&c.subs.find(x=>x.slug===ss);if(!s)return cat(slug);
-  const draw=()=>{app.innerHTML=head(`<a href="#/">Home</a> › <a href="#/c/${c.slug}">${esc(c.name)}</a> › <span>${esc(s.t)}</span>`,s.t,`${s.items.length} design${s.items.length===1?"":"s"}${s.items[0].det&&s.items[0].det!==s.t?` · ${esc(s.items[0].det)}`:""}`)+`<div class="wrap">${prodList(s.items)}</div>`;bindSort(draw)};draw();
+  const draw=()=>{app.innerHTML=head(`<a href="#/">Home</a> › <a href="#/c/${c.slug}">${esc(c.name)}</a> › <span>${esc(s.t)}</span>`,s.t,`${s.items.length} design${s.items.length===1?"":"s"}${s.items[0].det&&s.items[0].det!==s.t&&!s.items[0].n?` · ${esc(s.items[0].det)}`:""}`)+`<div class="wrap">${prodList(s.items)}</div>`;bindSort(draw)};draw();
 }
 function search(q){
   const t=q.toLowerCase();const res=ALL.filter(it=>(it.c+" "+it.s.t+" "+it.det+" "+it.s.g+" "+it.s.cat.name).toLowerCase().includes(t));
