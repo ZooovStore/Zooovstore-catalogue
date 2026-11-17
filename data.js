@@ -2753,6 +2753,12 @@ const CATEGORIES = [
 "n": "Chand Envelope",
 "p": "Rs. 80/- each",
 "d": "Chand Envelope | MOQ: 30 pcs"
+},
+{
+"c": "EL-28",
+"n": "Lehariya Envelope",
+"p": "Rs. 70/- each",
+"d": "Lehariya Envelope | MOQ: 30 pcs"
 }
 ]
 },
