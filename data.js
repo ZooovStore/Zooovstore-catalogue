@@ -1474,6 +1474,12 @@ const CATEGORIES = [
 "n": "Embroidered Potli",
 "p": "Rs. 99/- each",
 "d": "Embroidered Potli | MOQ: 30 pcs"
+},
+{
+"c": "PB-04",
+"n": "Velvet Potli",
+"p": "Rs. 99/- each",
+"d": "Velvet Potli | MOQ: 30 pcs"
 }
 ]
 },
