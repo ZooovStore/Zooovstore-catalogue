@@ -2745,6 +2745,20 @@ const CATEGORIES = [
 ]
 },
 {
+"g": "Ethnic Files",
+"t": "Ethnic Files",
+"code": "EF",
+"slug": "ef",
+"items": [
+{
+"c": "EF-01",
+"n": "Gota Bandhej File",
+"p": "Rs. 120/- each",
+"d": "Gota Bandhej File | MOQ: 30 pcs"
+}
+]
+},
+{
 "g": "Thali, Platters & Boxes",
 "t": "Steel Thali",
 "code": "ST",

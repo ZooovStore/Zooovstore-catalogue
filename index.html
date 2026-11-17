@@ -337,7 +337,7 @@ function showP(c){
   const it=BY[c],s=it.s,n=s.items.length,prev=s.items[(it.i-1+n)%n].c,next=s.items[(it.i+1)%n].c;
   const q=inL(c)?.q||"";
   $("#pv").innerHTML=`<div class="pim"><img src="${img(s,it.i)}" alt="${esc(s.t)}"><button class="nav pl" data-p="${prev}"><svg class="i" viewBox="0 0 24 24"><path d="M15 6l-6 6 6 6"/></svg></button><button class="nav pr2" data-p="${next}"><svg class="i" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg></button></div>
-  <div class="pb"><div class="cd">Design ${esc(it.c)} · ${it.i+1} of ${n}</div><h3>${esc(s.t)}</h3><div class="pp">${priceHTML(it)}</div>
+  <div class="pb"><div class="cd">Design ${esc(it.c)} · ${it.i+1} of ${n}</div><h3>${esc(it.n||s.t)}</h3><div class="pp">${priceHTML(it)}</div>
   ${it.det?`<div class="ds">${esc(it.det)}</div>`:""}${it.moq?`<span class="mq">${esc(it.moq)}</span>`:""}
   <div class="qty">Quantity <div class="step"><button data-st="-1">−</button><input id="pq" type="number" min="1" value="${esc(q)}" placeholder="Qty"><button data-st="1">+</button></div></div>
   <div class="pacts"><button class="btn ln" id="padd">${inL(c)?"Update list":"Add to enquiry"}</button><a class="btn wa" id="pwa" target="_blank" rel="noopener">Order on WhatsApp</a></div></div>`;
@@ -365,16 +365,16 @@ function catTile(c){
   return `<a class="tile dim" href="#/c/${c.slug}"><div class="ph"><div class="ico">${ico(c.slug)}</div><span class="lab soon">Coming soon</span></div><div class="tx"><h3>${esc(c.name)}</h3><div class="meta">New stock arriving</div><div class="go">Enquire ${arrow}</div></div></a>`;
 }
 function subTile(c,s){
-  return `<a class="tile" href="#/c/${c.slug}/${s.slug}"><div class="ph"><img loading="lazy" src="${img(s,0)}" alt=""><span class="lab">${s.items.length} designs</span></div><div class="tx"><h3>${esc(s.t)}</h3><div class="from">From ₹${minP(s.items)}${s.items[0].unit!=="pc"?` / ${esc(s.items[0].unit)}`:""}</div><div class="go">View products ${arrow}</div></div></a>`;
+  return `<a class="tile" href="#/c/${c.slug}/${s.slug}"><div class="ph"><img loading="lazy" src="${img(s,0)}" alt=""><span class="lab">${s.items.length} design${s.items.length===1?"":"s"}</span></div><div class="tx"><h3>${esc(s.t)}</h3><div class="from">From ₹${minP(s.items)}${s.items[0].unit!=="pc"?` / ${esc(s.items[0].unit)}`:""}</div><div class="go">View products ${arrow}</div></div></a>`;
 }
 function card(it){const on=!!inL(it.c);return `<div class="card"><div class="im" data-show="${it.c}"><img loading="lazy" src="${img(it.s,it.i)}" alt="${esc(it.s.t)}"></div><span class="tag">${esc(it.c)}</span>
-<div class="bd"><div class="nm">${esc(it.s.t)}</div><div class="pr">${priceHTML(it)}</div>${it.moq?`<div class="mq">${esc(it.moq)}</div>`:""}
+<div class="bd"><div class="nm">${esc(it.n||it.s.t)}</div><div class="pr">${priceHTML(it)}</div>${it.moq?`<div class="mq">${esc(it.moq)}</div>`:""}
 <div class="ac"><a class="w" target="_blank" rel="noopener" href="${wa(`Hi Zooov! I'd like to order design ${it.c} – ${it.s.t} (₹${it.val}/${it.unit}). Please share details.`)}">Order</a><button class="ad ${on?"on":""}" data-add="${it.c}">${on?"✓ Added":"+ Enquiry"}</button></div></div></div>`}
 function refreshBtns(){$$("[data-add]").forEach(b=>{const on=!!inL(b.dataset.add);b.classList.toggle("on",on);b.textContent=on?"✓ Added":"+ Enquiry"})}
 const head=(crumbs,title,sub)=>`<section class="ph1"><div class="wrap"><div class="crumb">${crumbs}</div><h1>${esc(title)}</h1>${sub?`<p>${sub}</p>`:""}</div></section>`;
 let sortKey="rec";
 function prodList(items){const arr=[...items];if(sortKey==="lo")arr.sort((a,b)=>a.val-b.val);if(sortKey==="hi")arr.sort((a,b)=>b.val-a.val);
-  return `<div class="tool"><span>Showing ${arr.length} designs</span><select id="sort"><option value="rec">Sort: Default</option><option value="lo">Price: Low to High</option><option value="hi">Price: High to Low</option></select></div><div class="grid">${arr.map(card).join("")}</div>`}
+  return `<div class="tool"><span>Showing ${arr.length} design${arr.length===1?"":"s"}</span><select id="sort"><option value="rec">Sort: Default</option><option value="lo">Price: Low to High</option><option value="hi">Price: High to Low</option></select></div><div class="grid">${arr.map(card).join("")}</div>`}
 function bindSort(fn){const s=$("#sort");if(s){s.value=sortKey;s.onchange=()=>{sortKey=s.value;fn()}}}
 
 function home(){
@@ -403,7 +403,7 @@ function cat(slug){
 }
 function sub(slug,ss){
   const c=CATEGORIES.find(x=>x.slug===slug);const s=c&&c.subs.find(x=>x.slug===ss);if(!s)return cat(slug);
-  const draw=()=>{app.innerHTML=head(`<a href="#/">Home</a> › <a href="#/c/${c.slug}">${esc(c.name)}</a> › <span>${esc(s.t)}</span>`,s.t,`${s.items.length} designs${s.items[0].det&&s.items[0].det!==s.t?` · ${esc(s.items[0].det)}`:""}`)+`<div class="wrap">${prodList(s.items)}</div>`;bindSort(draw)};draw();
+  const draw=()=>{app.innerHTML=head(`<a href="#/">Home</a> › <a href="#/c/${c.slug}">${esc(c.name)}</a> › <span>${esc(s.t)}</span>`,s.t,`${s.items.length} design${s.items.length===1?"":"s"}${s.items[0].det&&s.items[0].det!==s.t?` · ${esc(s.items[0].det)}`:""}`)+`<div class="wrap">${prodList(s.items)}</div>`;bindSort(draw)};draw();
 }
 function search(q){
   const t=q.toLowerCase();const res=ALL.filter(it=>(it.c+" "+it.s.t+" "+it.det+" "+it.s.g+" "+it.s.cat.name).toLowerCase().includes(t));
