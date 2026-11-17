@@ -1480,6 +1480,12 @@ const CATEGORIES = [
 "n": "Velvet Potli",
 "p": "Rs. 99/- each",
 "d": "Velvet Potli | MOQ: 30 pcs"
+},
+{
+"c": "PB-05",
+"n": "Angoori Potli",
+"p": "Rs. 89/- each",
+"d": "Angoori Potli | MOQ: 30 pcs"
 }
 ]
 },
