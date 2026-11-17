@@ -2761,6 +2761,12 @@ const CATEGORIES = [
 "n": "Gota Silk File",
 "p": "Rs. 120/- each",
 "d": "Gota Silk File | MOQ: 30 pcs"
+},
+{
+"c": "EF-03",
+"n": "Sheesha File",
+"p": "Rs. 120/- each",
+"d": "Sheesha File | MOQ: 20 pcs"
 }
 ]
 },
