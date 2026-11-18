@@ -4166,6 +4166,26 @@ const CATEGORIES = [
 "d": "Welcome Patka, 55+ inch long, 1 inch wide | MOQ: 50 pcs"
 }
 ]
+},
+{
+"g": "Shringar & Accessories",
+"t": "Hair Accessories",
+"code": "HA",
+"slug": "ha",
+"items": [
+{
+"c": "HA-01",
+"n": "Floral Hair Comb",
+"p": "Rs. 2000/- per packet",
+"d": "Floral Hair Comb | 1 Packet = 50 Pieces"
+},
+{
+"c": "HA-02",
+"n": "Floral Hair Comb",
+"p": "Rs. 2000/- per packet",
+"d": "Floral Hair Comb | 1 Packet = 50 Pieces"
+}
+]
 }
 ]
 },
