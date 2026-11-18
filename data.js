@@ -4202,6 +4202,12 @@ const CATEGORIES = [
 "n": "Scented Red Flower Gajra",
 "p": "Rs. 1500/- per packet",
 "d": "Scented Red Flower Gajra | 1 Packet = 50 Pieces"
+},
+{
+"c": "HA-06",
+"n": "Scented Plain Gajra",
+"p": "Rs. 1400/- per packet",
+"d": "Scented Plain Gajra | 1 Packet = 50 Pieces"
 }
 ]
 }
