@@ -4196,6 +4196,12 @@ const CATEGORIES = [
 "n": "Floral Clip",
 "p": "Rs. 2200/- per packet",
 "d": "Floral Clip | 1 Packet = 50 Pieces"
+},
+{
+"c": "HA-05",
+"n": "Scented Red Flower Gajra",
+"p": "Rs. 1500/- per packet",
+"d": "Scented Red Flower Gajra | 1 Packet = 50 Pieces"
 }
 ]
 }
