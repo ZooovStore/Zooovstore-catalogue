@@ -4184,6 +4184,18 @@ const CATEGORIES = [
 "n": "Floral Hair Comb",
 "p": "Rs. 2000/- per packet",
 "d": "Floral Hair Comb | 1 Packet = 50 Pieces"
+},
+{
+"c": "HA-03",
+"n": "Floral Clip",
+"p": "Rs. 2200/- per packet",
+"d": "Floral Clip | 1 Packet = 50 Pieces"
+},
+{
+"c": "HA-04",
+"n": "Floral Clip",
+"p": "Rs. 2200/- per packet",
+"d": "Floral Clip | 1 Packet = 50 Pieces"
 }
 ]
 }
