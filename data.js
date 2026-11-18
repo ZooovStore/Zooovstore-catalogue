@@ -4210,6 +4210,20 @@ const CATEGORIES = [
 "d": "Scented Plain Gajra | 1 Packet = 50 Pieces"
 }
 ]
+},
+{
+"g": "Shringar & Accessories",
+"t": "Mirrors",
+"code": "MR",
+"slug": "mr",
+"items": [
+{
+"c": "MR-01",
+"n": "Fancy Mirror",
+"p": "Rs. 2500/- per packet",
+"d": "Fancy Mirror | 1 Packet = 50 Pieces"
+}
+]
 }
 ]
 },
