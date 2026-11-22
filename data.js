@@ -1497,32 +1497,6 @@ const CATEGORIES = [
 },
 {
 "g": "Potlis",
-"t": "Dholak Bags",
-"code": "DH",
-"slug": "dh",
-"items": [
-{
-"c": "DH-01",
-"n": "Dholak Bag – Pearl Handle",
-"p": "Rs. 170/- each",
-"d": "Bandhani fabric · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "DH-02",
-"n": "Dholak Bag – Gold Gota",
-"p": "Rs. 170/- each",
-"d": "Double-side opening, zipper · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "DH-03",
-"n": "Dholak Bag – 6 Colours",
-"p": "Rs. 170/- each",
-"d": "Gold gota patti · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
-}
-]
-},
-{
-"g": "Potlis",
 "t": "Embroidered Matki Box",
 "code": "MB",
 "slug": "mb",
@@ -1531,13 +1505,7 @@ const CATEGORIES = [
 "c": "MB-01",
 "n": "Embroidered Matki Box",
 "p": "Rs. 170/- each",
-"d": "Zari work, comes with free fragrance gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "MB-02",
-"n": "Matki Box Collection",
-"p": "Rs. 170/- each",
-"d": "3.5 inch, zipper closure, free gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
+"d": "Zari work, 3.5 inch, zipper, comes with free fragrance gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
 }
 ]
 },
@@ -1547,12 +1515,6 @@ const CATEGORIES = [
 "code": "MP",
 "slug": "mp",
 "items": [
-{
-"c": "MP-01",
-"n": "Angoori Potli",
-"p": "Rs. 80/- each",
-"d": "Zari embroidered, pearl bead handle, 8+ colours | MOQ: 50 pcs"
-},
 {
 "c": "MP-02",
 "n": "Printed Gotta Purse / Shagun Envelope",
@@ -1575,27 +1537,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "VP-01",
-"n": "Orange Velvet Potli",
+"n": "Embroidered Velvet Potli",
 "p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
-},
-{
-"c": "VP-02",
-"n": "Red Velvet Potli",
-"p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
-},
-{
-"c": "VP-03",
-"n": "Yellow Velvet Potli",
-"p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
-},
-{
-"c": "VP-04",
-"n": "Maroon Velvet Potli",
-"p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+"d": "Gold sequin embroidery, 7x9 inch · Orange, Red, Yellow, Maroon | 1 Packet = 100 Pieces"
 }
 ]
 },
@@ -1613,15 +1557,9 @@ const CATEGORIES = [
 },
 {
 "c": "GL-02",
-"n": "Lehriya Potli – Bulk",
+"n": "Lehriya Potli",
 "p": "Rs. 5000/- per packet",
-"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
-},
-{
-"c": "GL-03",
-"n": "Lehriya Potli – All Colours",
-"p": "Rs. 5000/- per packet",
-"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
+"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000 · mixed colours"
 }
 ]
 },
@@ -3108,11 +3046,6 @@ const CATEGORIES = [
 "d": "Decorated Steel Thali (9.5 inch) | MOQ: 25 pcs"
 },
 {
-"c": "ST-10",
-"p": "Rs. 190/- each",
-"d": "Decorated Steel Thali (9.5 inch) | MOQ: 25 pcs"
-},
-{
 "c": "ST-11",
 "p": "Rs. 190/- each",
 "d": "Decorated Steel Thali (9.5 inch) | MOQ: 25 pcs"
@@ -3378,11 +3311,6 @@ const CATEGORIES = [
 },
 {
 "c": "R8-02",
-"p": "Rs. 140/- each",
-"d": "Roli Chawal Platter (8 inch) | MOQ: 30 pcs"
-},
-{
-"c": "R8-03",
 "p": "Rs. 140/- each",
 "d": "Roli Chawal Platter (8 inch) | MOQ: 30 pcs"
 },
@@ -4348,19 +4276,7 @@ const CATEGORIES = [
 "d": "Floral Hair Comb | 1 Packet = 50 Pieces"
 },
 {
-"c": "HA-02",
-"n": "Floral Hair Comb",
-"p": "Rs. 2000/- per packet",
-"d": "Floral Hair Comb | 1 Packet = 50 Pieces"
-},
-{
 "c": "HA-03",
-"n": "Floral Clip",
-"p": "Rs. 2200/- per packet",
-"d": "Floral Clip | 1 Packet = 50 Pieces"
-},
-{
-"c": "HA-04",
 "n": "Floral Clip",
 "p": "Rs. 2200/- per packet",
 "d": "Floral Clip | 1 Packet = 50 Pieces"
@@ -4427,21 +4343,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "GB-01",
-"n": "Pearl & Ghungroo Bracelet – Red",
+"n": "Pearl & Ghungroo Bracelet",
 "p": "Rs. 25/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "GB-02",
-"n": "Red Ghungroo Bulk Pack",
-"p": "Rs. 25/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "GB-03",
-"n": "Green Ghungroo Bracelet",
-"p": "Rs. 25/- each",
-"d": "MOQ: 50 pcs"
+"d": "Red & green | MOQ: 50 pcs"
 }
 ]
 },
@@ -4488,14 +4392,7 @@ const CATEGORIES = [
 "d": "MOQ: 50 pcs"
 }
 ]
-}
-]
 },
-{
-"name": "Premium Return Gifts",
-"icon": "",
-"slug": "premium-return-gifts",
-"subs": [
 {
 "g": "German Silver",
 "t": "German Silver Glass Set",
@@ -4504,27 +4401,15 @@ const CATEGORIES = [
 "items": [
 {
 "c": "GG-01",
-"n": "Glass Set in Velvet Box",
+"n": "German Silver Glass Set",
 "p": "Rs. 650/- per set",
-"d": "Bottle + 4 glasses · ₹599 for 300+ sets | MOQ: 50 sets"
-},
-{
-"c": "GG-02",
-"n": "Bottle + Glasses Set",
-"p": "Rs. 650/- per set",
-"d": "Bottle + 4 glasses · ₹599 for 300+ sets | MOQ: 50 sets"
+"d": "Bottle + 4 glasses in velvet box · ₹599 for 300+ sets | MOQ: 50 sets"
 },
 {
 "c": "GG-03",
 "n": "German Silver Bottle",
 "p": "Rs. 450/- each",
-"d": "Bottle only · ₹399 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "GG-04",
-"n": "Bottle in Velvet Box",
-"p": "Rs. 450/- each",
-"d": "Bottle only · ₹399 for 300+ pcs | MOQ: 50 pcs"
+"d": "Bottle only, velvet box · ₹399 for 300+ pcs | MOQ: 50 pcs"
 }
 ]
 },
@@ -4536,13 +4421,7 @@ const CATEGORIES = [
 "items": [
 {
 "c": "CG-01",
-"n": "Champagne Glass Pair",
-"p": "Rs. 1499/- per set",
-"d": "Engraved silver, gold-tone stem, velvet gift box | MOQ: 50 sets"
-},
-{
-"c": "CG-02",
-"n": "Champagne Set with Gift Box",
+"n": "German Silver Champagne Glass Pair",
 "p": "Rs. 1499/- per set",
 "d": "Engraved silver, gold-tone stem, velvet gift box | MOQ: 50 sets"
 }
@@ -4556,27 +4435,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "PW-01",
-"n": "Parrot Bowl – Single",
+"n": "German Silver Parrot Bowl",
 "p": "Rs. 150/- each",
-"d": "Filigree dry fruit bowl · ₹140 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "PW-02",
-"n": "Parrot Bowl Set with Tray",
-"p": "Rs. 150/- each",
-"d": "2 bowls + silver tray · ₹140 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "PW-03",
-"n": "Parrot Bowl – Close Up",
-"p": "Rs. 150/- each",
-"d": "Detailed parrot figurine handles · ₹140 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "PW-04",
-"n": "Parrot Bowl Duo",
-"p": "Rs. 150/- each",
-"d": "Dry fruit gift set · ₹140 for 300+ pcs | MOQ: 50 pcs"
+"d": "Filigree dry fruit bowl with parrot handles · ₹140 for 300+ pcs | MOQ: 50 pcs"
 }
 ]
 },
@@ -4588,27 +4449,15 @@ const CATEGORIES = [
 "items": [
 {
 "c": "BS-01",
-"n": "2 Bowl + Tray Set (Velvet Box)",
-"p": "Rs. 210/- per set",
-"d": "With 2 spoons · ₹199 for 300+ sets | MOQ: 50 sets"
-},
-{
-"c": "BS-02",
 "n": "2 Bowl + Tray Set",
 "p": "Rs. 210/- per set",
-"d": "Elegant display · ₹199 for 300+ sets | MOQ: 50 sets"
+"d": "Velvet box, with 2 spoons · ₹199 for 300+ sets | MOQ: 50 sets"
 },
 {
 "c": "BS-03",
-"n": "Single Bowl + Spoon",
+"n": "Single Bowl + Spoon Set",
 "p": "Rs. 110/- per set",
 "d": "Velvet box · ₹100 for 300+ sets | MOQ: 50 sets"
-},
-{
-"c": "BS-04",
-"n": "Single Bowl Set",
-"p": "Rs. 110/- per set",
-"d": "Premium silver plated · ₹100 for 300+ sets | MOQ: 50 sets"
 }
 ]
 },
@@ -4620,15 +4469,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "TK-01",
-"n": "Tilak Chopra in Velvet Box",
+"n": "German Silver Tilak Chopra",
 "p": "Rs. 220/- each",
-"d": "Peacock feather, crystal studded · ₹199 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "TK-02",
-"n": "Tilak Chopra Display",
-"p": "Rs. 220/- each",
-"d": "Silver plated, gift ready · ₹199 for 300+ pcs | MOQ: 50 pcs"
+"d": "Peacock feather, crystal studded, velvet box · ₹199 for 300+ pcs | MOQ: 50 pcs"
 }
 ]
 },
@@ -4640,15 +4483,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "DJ-01",
-"n": "Silver Floral Dry Fruit Jar",
+"n": "Silver Floral Dry Fruit Jar Set",
 "p": "Rs. 499/- per set",
-"d": "2 jars in velvet box · ₹450 for 300+ sets | MOQ: 50 sets"
-},
-{
-"c": "DJ-02",
-"n": "Jar Pair in Gift Box",
-"p": "Rs. 499/- per set",
-"d": "Crystal lid, premium packing · ₹450 for 300+ sets | MOQ: 50 sets"
+"d": "2 jars in velvet gift box · ₹450 for 300+ sets | MOQ: 50 sets"
 }
 ]
 },
@@ -4660,15 +4497,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "DF-01",
-"n": "Tray + 4 Bowl Set",
+"n": "German Silver Dry Fruit Box",
 "p": "Rs. 899/- per set",
-"d": "Crystal floral rim tray · ₹850 for 300+ sets | MOQ: 50 sets"
-},
-{
-"c": "DF-02",
-"n": "Complete Gift Set",
-"p": "Rs. 899/- per set",
-"d": "German silver, premium display · ₹850 for 300+ sets | MOQ: 50 sets"
+"d": "Tray + 4 filigree bowls · ₹850 for 300+ sets | MOQ: 50 sets"
 }
 ]
 },
@@ -4680,15 +4511,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "SJ-01",
-"n": "Swastik Jyot – Lit Display",
+"n": "Swastik Gold Silver Jyot",
 "p": "Rs. 299/- each",
-"d": "Gold & silver finish diya · ₹250 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "SJ-02",
-"n": "Swastik Jyot in Velvet Box",
-"p": "Rs. 299/- each",
-"d": "Red velvet box, gift ready · ₹250 for 300+ pcs | MOQ: 50 pcs"
+"d": "Gold & silver finish diya, velvet box · ₹250 for 300+ pcs | MOQ: 50 pcs"
 }
 ]
 },
@@ -4714,15 +4539,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "GT-01",
-"n": "Ghungroo Pooja Thali",
+"n": "German Silver Ghungroo Thali Set",
 "p": "Rs. 2200/- per set",
 "d": "10 inch Swastik thali, bell, kalash, diya & bowls, velvet box | MOQ: 50 sets"
-},
-{
-"c": "GT-02",
-"n": "Complete Set Contents",
-"p": "Rs. 2200/- per set",
-"d": "10 inch thali · bell · kalash · diya · bowl | MOQ: 50 sets"
 }
 ]
 },
@@ -4734,15 +4553,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "SL-01",
-"n": "Shubh Labh Pair + Velvet Box",
+"n": "German Silver Shubh Labh Hanging",
 "p": "Rs. 299/- each",
-"d": "Auspicious door / mandir hanging | MOQ: 50 pcs"
-},
-{
-"c": "SL-02",
-"n": "Shubh Labh – Mandir Display",
-"p": "Rs. 299/- each",
-"d": "Auspicious door / mandir hanging | MOQ: 50 pcs"
+"d": "Pair in velvet box, door / mandir hanging | MOQ: 50 pcs"
 }
 ]
 },
@@ -4824,15 +4637,9 @@ const CATEGORIES = [
 "items": [
 {
 "c": "DR-01",
-"n": "Engraved Brass Dabra Set",
+"n": "Brass Dabra Set",
 "p": "Rs. 350/- per set",
-"d": "Tumbler + dabra, pure brass | MOQ: 50 sets"
-},
-{
-"c": "DR-02",
-"n": "Brass Tumbler & Dabra",
-"p": "Rs. 350/- per set",
-"d": "Traditional South Indian style | MOQ: 50 sets"
+"d": "Engraved tumbler + dabra, pure brass | MOQ: 50 sets"
 }
 ]
 }
