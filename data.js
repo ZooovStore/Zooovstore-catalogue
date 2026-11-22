@@ -4691,6 +4691,12 @@ const CATEGORIES = [
 "n": "Christmas Bubble Gun",
 "p": "Rs. 499/- each",
 "d": "Light-up bubble gun with Santa / snowman / reindeer topper, ages 3+, needs 4 AA batteries | MOQ: 6 pcs"
+},
+{
+"c": "XM-07",
+"n": "Christmas Piggy Bank",
+"p": "Rs. 89/- each",
+"d": "Mini tin money bank with lock & key, assorted Christmas prints | MOQ: 24 pcs"
 }
 ]
 }
