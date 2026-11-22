@@ -4847,6 +4847,12 @@ const CATEGORIES = [
 "n": "Christmas Thick Topper Pen",
 "p": "Rs. 55/- each",
 "d": "Chunky pen with soft Christmas topper (tree, Santa, snowman, reindeer) | MOQ: 24 pcs"
+},
+{
+"c": "XM-33",
+"n": "Christmas LED Pen",
+"p": "Rs. 45/- each",
+"d": "Light-up gel pen with Christmas topper (Santa, tree), red, green & white | MOQ: 48 pcs"
 }
 ]
 }
@@ -5551,6 +5557,12 @@ const CATEGORIES = [
 "n": "Christmas Thick Topper Pen",
 "p": "Rs. 55/- each",
 "d": "Chunky pen with soft Christmas topper (tree, Santa, snowman, reindeer) | MOQ: 24 pcs"
+},
+{
+"c": "PN-10",
+"n": "Christmas LED Pen",
+"p": "Rs. 45/- each",
+"d": "Light-up gel pen with Christmas topper (Santa, tree), red, green & white | MOQ: 48 pcs"
 }
 ]
 },
