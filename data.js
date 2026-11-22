@@ -4655,7 +4655,22 @@ const CATEGORIES = [
 "name": "Lamps",
 "icon": "🪔",
 "slug": "lamps",
-"subs": []
+"subs": [
+{
+"g": "Lamps",
+"t": "Cork Lights",
+"code": "LM",
+"slug": "lm",
+"items": [
+{
+"c": "LM-01",
+"n": "Cork Light (Red, Green, Blue)",
+"p": "Rs. 999/- per packet",
+"d": "Bottle cork LED string light, multicolour | 1 Packet = 30 Lights"
+}
+]
+}
+]
 },
 {
 "name": "Steel Bottles, Mugs & Tumblers",
