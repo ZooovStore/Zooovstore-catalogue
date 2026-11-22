@@ -4787,6 +4787,12 @@ const CATEGORIES = [
 "n": "Christmas Pencil Set 02",
 "p": "Rs. 59/- per set",
 "d": "6 printed pencils with erasers in Christmas gift box, assorted designs | MOQ: 24 sets"
+},
+{
+"c": "XM-23",
+"n": "Christmas Highlighter Pen",
+"p": "Rs. 30/- each",
+"d": "Single highlighter with Christmas topper (Santa, reindeer, tree), assorted colours | MOQ: 36 pcs"
 }
 ]
 }
@@ -5417,6 +5423,12 @@ const CATEGORIES = [
 "n": "Christmas Highlighter Pack (Matte)",
 "p": "Rs. 135/- per set",
 "d": "6 matte pastel highlighters with Christmas toppers, zip pouch | MOQ: 24 sets"
+},
+{
+"c": "HL-03",
+"n": "Christmas Highlighter Pen",
+"p": "Rs. 30/- each",
+"d": "Single highlighter with Christmas topper (Santa, reindeer, tree), assorted colours | MOQ: 36 pcs"
 }
 ]
 },
