@@ -5636,7 +5636,22 @@ const CATEGORIES = [
 "name": "Squishy",
 "icon": "🍡",
 "slug": "squishy",
-"subs": []
+"subs": [
+{
+"g": "Squishy",
+"t": "Squishy",
+"code": "SQ",
+"slug": "sq",
+"items": [
+{
+"c": "SQ-01",
+"n": "Fruit Can Squishy",
+"p": "Rs. 125/- each",
+"d": "Slow-rebound fruit soda can squishy, assorted flavours, ages 3+ | MOQ: 12 pcs"
+}
+]
+}
+]
 },
 {
 "name": "Glass Bottles, Mugs & Tumblers",

@@ -269,7 +269,7 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);text-align:center;font-s
 </div>
 <div class="toast" id="toast"></div>
 
-<script src="data.js?v=20261123zo"></script>
+<script src="data.js?v=20261123zp"></script>
 <script>
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
@@ -393,7 +393,7 @@ function home(){
   <div class="tiles">${["sb","p5","st","cb"].map(k=>subTile(w,ss(k))).join("")}</div></div></section>`;
   $$("#app [data-wa]").forEach(a=>a.href=wa("Hi Zooov! I'd like to enquire about bulk orders."));
 }
-const FLAT=["christmas-special","lamps","steel-bottles-mugs-tumblers","bags"];
+const FLAT=["christmas-special","lamps","steel-bottles-mugs-tumblers","bags","squishy"];
 function cat(slug){
   const c=CATEGORIES.find(x=>x.slug===slug);if(!c)return home();
   const cr=`<a href="#/">Home</a> › <span>${esc(c.name)}</span>`;
