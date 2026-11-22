@@ -4817,6 +4817,12 @@ const CATEGORIES = [
 "n": "Christmas Slim Pen",
 "p": "Rs. 22/- each",
 "d": "Slim gel pen with Christmas topper (reindeer, house, Santa, tree) | MOQ: 48 pcs"
+},
+{
+"c": "XM-28",
+"n": "Christmas Highlighter Pen 05",
+"p": "Rs. 39/- each",
+"d": "Fluorescent highlighter with Christmas topper (Santa, snowman, tree, reindeer, stocking) | MOQ: 36 pcs"
 }
 ]
 }
@@ -5453,6 +5459,12 @@ const CATEGORIES = [
 "n": "Christmas Highlighter Pen",
 "p": "Rs. 30/- each",
 "d": "Single highlighter with Christmas topper (Santa, reindeer, tree), assorted colours | MOQ: 36 pcs"
+},
+{
+"c": "HL-04",
+"n": "Christmas Highlighter Pen 05",
+"p": "Rs. 39/- each",
+"d": "Fluorescent highlighter with Christmas topper (Santa, snowman, tree, reindeer, stocking) | MOQ: 36 pcs"
 }
 ]
 },
