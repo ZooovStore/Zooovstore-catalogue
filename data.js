@@ -4841,6 +4841,12 @@ const CATEGORIES = [
 "n": "Christmas Circle Topper Pen",
 "p": "Rs. 55/- each",
 "d": "Gel pen with spinning ring topper (snowman, Santa, reindeer, tree) | MOQ: 36 pcs"
+},
+{
+"c": "XM-32",
+"n": "Christmas Thick Topper Pen",
+"p": "Rs. 55/- each",
+"d": "Chunky pen with soft Christmas topper (tree, Santa, snowman, reindeer) | MOQ: 24 pcs"
 }
 ]
 }
@@ -5539,6 +5545,12 @@ const CATEGORIES = [
 "n": "Christmas Circle Topper Pen",
 "p": "Rs. 55/- each",
 "d": "Gel pen with spinning ring topper (snowman, Santa, reindeer, tree) | MOQ: 36 pcs"
+},
+{
+"c": "PN-09",
+"n": "Christmas Thick Topper Pen",
+"p": "Rs. 55/- each",
+"d": "Chunky pen with soft Christmas topper (tree, Santa, snowman, reindeer) | MOQ: 24 pcs"
 }
 ]
 },
