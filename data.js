@@ -4649,7 +4649,22 @@ const CATEGORIES = [
 "name": "Christmas Special",
 "icon": "🎄",
 "slug": "christmas-special",
-"subs": []
+"subs": [
+{
+"g": "Christmas Special",
+"t": "Christmas Gifts",
+"code": "XM",
+"slug": "xm",
+"items": [
+{
+"c": "XM-01",
+"n": "Christmas Cutlery Set (2 Pcs)",
+"p": "Rs. 165/- per set",
+"d": "Spoon + fork with Christmas toppers, gift box | MOQ: 6 sets"
+}
+]
+}
+]
 },
 {
 "name": "Lamps",
