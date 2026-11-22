@@ -4661,6 +4661,12 @@ const CATEGORIES = [
 "n": "Christmas Cutlery Set (2 Pcs)",
 "p": "Rs. 165/- per set",
 "d": "Spoon + fork with Christmas toppers, gift box | MOQ: 6 sets"
+},
+{
+"c": "XM-02",
+"n": "Christmas Cutlery Set (4 Pcs)",
+"p": "Rs. 220/- per set",
+"d": "2 spoons + 2 forks with Christmas toppers, gift box | MOQ: 6 sets"
 }
 ]
 }
