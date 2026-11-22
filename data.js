@@ -4673,6 +4673,12 @@ const CATEGORIES = [
 "n": "Christmas Steel Tumbler",
 "p": "Rs. 650/- each",
 "d": "Stainless steel tumbler with handle, festive prints | MOQ: 4 pcs"
+},
+{
+"c": "XM-04",
+"n": "Christmas Steel Stylo Tumbler",
+"p": "Rs. 650/- each",
+"d": "Stainless steel tumbler with handle, Santa & Christmas prints | MOQ: 4 pcs"
 }
 ]
 }
@@ -4721,6 +4727,12 @@ const CATEGORIES = [
 "n": "Christmas Steel Tumbler",
 "p": "Rs. 650/- each",
 "d": "Stainless steel tumbler with handle, festive prints | MOQ: 4 pcs"
+},
+{
+"c": "SBT-02",
+"n": "Christmas Steel Stylo Tumbler",
+"p": "Rs. 650/- each",
+"d": "Stainless steel tumbler with handle, Santa & Christmas prints | MOQ: 4 pcs"
 }
 ]
 }
