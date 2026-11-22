@@ -4721,6 +4721,12 @@ const CATEGORIES = [
 "n": "Christmas Highlighter Pack (Matte)",
 "p": "Rs. 135/- per set",
 "d": "6 matte pastel highlighters with Christmas toppers, zip pouch | MOQ: 24 sets"
+},
+{
+"c": "XM-12",
+"n": "Christmas Rubber Pen",
+"p": "Rs. 30/- each",
+"d": "Ball pen with soft Christmas topper (Santa, snowman, reindeer, tree, gift) | MOQ: 36 pcs"
 }
 ]
 }
@@ -5337,6 +5343,20 @@ const CATEGORIES = [
 "n": "Christmas Highlighter Pack (Matte)",
 "p": "Rs. 135/- per set",
 "d": "6 matte pastel highlighters with Christmas toppers, zip pouch | MOQ: 24 sets"
+}
+]
+},
+{
+"g": "Stationery",
+"t": "Pens",
+"code": "PN",
+"slug": "pn",
+"items": [
+{
+"c": "PN-01",
+"n": "Christmas Rubber Pen",
+"p": "Rs. 30/- each",
+"d": "Ball pen with soft Christmas topper (Santa, snowman, reindeer, tree, gift) | MOQ: 36 pcs"
 }
 ]
 }
