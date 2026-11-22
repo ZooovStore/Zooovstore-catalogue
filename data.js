@@ -4739,6 +4739,12 @@ const CATEGORIES = [
 "n": "Christmas Gift Bag 02",
 "p": "Rs. 30/- each",
 "d": "Zip-lock gift / candy pouch with clear window, Christmas train design | MOQ: 100 pcs"
+},
+{
+"c": "XM-15",
+"n": "Christmas Gift Bag 03",
+"p": "Rs. 25/- each",
+"d": "Zip-lock gift / candy pouch with window, Christmas bus design | MOQ: 50 pcs"
 }
 ]
 }
@@ -5389,6 +5395,12 @@ const CATEGORIES = [
 "n": "Christmas Gift Bag 02",
 "p": "Rs. 30/- each",
 "d": "Zip-lock gift / candy pouch with clear window, Christmas train design | MOQ: 100 pcs"
+},
+{
+"c": "GBG-03",
+"n": "Christmas Gift Bag 03",
+"p": "Rs. 25/- each",
+"d": "Zip-lock gift / candy pouch with window, Christmas bus design | MOQ: 50 pcs"
 }
 ]
 }
