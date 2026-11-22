@@ -4724,6 +4724,12 @@ const CATEGORIES = [
 "n": "Sleeping Panda Silicone Lamp",
 "p": "Rs. 320/- each",
 "d": "Soft silicone night lamp, tap on/off, 30-min timer, USB rechargeable | MOQ: 5 pcs"
+},
+{
+"c": "LM-04",
+"n": "Dumpling Lamp",
+"p": "Rs. 270/- each",
+"d": "Soft silicone bedside night lamp, 7 colours, dimmable | MOQ: 6 pcs"
 }
 ]
 }
