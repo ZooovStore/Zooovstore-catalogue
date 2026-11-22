@@ -4727,6 +4727,12 @@ const CATEGORIES = [
 "n": "Christmas Rubber Pen",
 "p": "Rs. 30/- each",
 "d": "Ball pen with soft Christmas topper (Santa, snowman, reindeer, tree, gift) | MOQ: 36 pcs"
+},
+{
+"c": "XM-13",
+"n": "Christmas Gift Bag 01",
+"p": "Rs. 22/- each",
+"d": "Zip-lock gift / candy pouch with clear window, Santa design | MOQ: 50 pcs"
 }
 ]
 }
@@ -5357,6 +5363,20 @@ const CATEGORIES = [
 "n": "Christmas Rubber Pen",
 "p": "Rs. 30/- each",
 "d": "Ball pen with soft Christmas topper (Santa, snowman, reindeer, tree, gift) | MOQ: 36 pcs"
+}
+]
+},
+{
+"g": "Stationery",
+"t": "Gift Bags",
+"code": "GBG",
+"slug": "gbg",
+"items": [
+{
+"c": "GBG-01",
+"n": "Christmas Gift Bag 01",
+"p": "Rs. 22/- each",
+"d": "Zip-lock gift / candy pouch with clear window, Santa design | MOQ: 50 pcs"
 }
 ]
 }
