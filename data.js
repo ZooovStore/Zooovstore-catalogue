@@ -4860,7 +4860,518 @@ const CATEGORIES = [
 "name": "Plushy Keychains",
 "icon": "🧸",
 "slug": "plushy-keychains",
-"subs": []
+"subs": [
+{
+"g": "Plushy Keychains",
+"t": "Bunnies & Rabbits",
+"code": "ZS",
+"slug": "pk-bunny",
+"items": [
+{
+"c": "ZS-01",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 185/- each",
+"d": "Rainbow patch | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-02",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 200/- each",
+"d": "Plaid scarf | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-03",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 200/- each",
+"d": "Gingham bow | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-04",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 200/- each",
+"d": "Sunglasses & sweater | MOQ: 4 pcs"
+},
+{
+"c": "ZS-05",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 180/- each",
+"d": "Sling bag | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-06",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 195/- each",
+"d": "Tweed dress | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-07",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 180/- each",
+"d": "Pink gingham bow | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-08",
+"n": "Bunny Plushy Keychain",
+"p": "Rs. 180/- each",
+"d": "Satin bow | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-09",
+"n": "Bunny & Puppy Plushy Keychain",
+"p": "Rs. 155/- each",
+"d": "Bow & leaf toppers | MOQ: 4 pcs"
+},
+{
+"c": "ZS-10",
+"n": "Bunny Hood Doll Keychain",
+"p": "Rs. 245/- each",
+"d": "6 colours | MOQ: 4 pcs"
+},
+{
+"c": "ZS-11",
+"n": "Pink Bunny Plushy Keychain",
+"p": "Rs. 235/- each",
+"d": "Floppy ears | MOQ: 4 pcs"
+},
+{
+"c": "ZS-12",
+"n": "Dancing Bunny Keychain",
+"p": "Rs. 220/- each",
+"d": "Moving action | MOQ: 4 pcs"
+},
+{
+"c": "ZS-13",
+"n": "Floppy Ear Bunny Magnet Keychain",
+"p": "Rs. 190/- each",
+"d": "Magnet + keychain | MOQ: 4 pcs"
+},
+{
+"c": "ZS-14",
+"n": "Dancing Floral Bunny Keychain",
+"p": "Rs. 220/- each",
+"d": "Floral dress, moving action | MOQ: 4 pcs"
+},
+{
+"c": "ZS-15",
+"n": "Heart Paw Bunny Keychain",
+"p": "Rs. 215/- each",
+"d": "Pink, grey & white | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-16",
+"n": "Pastel Rabbit Plushy Keychain",
+"p": "Rs. 205/- each",
+"d": "Long ears | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-17",
+"n": "Fruit Hug Bunny Keychain",
+"p": "Rs. 190/- each",
+"d": "Carrot, strawberry & pineapple | MOQ: 4 sets (8 pcs)"
+}
+]
+},
+{
+"g": "Plushy Keychains",
+"t": "Teddies & Bears",
+"code": "ZS",
+"slug": "pk-teddy",
+"items": [
+{
+"c": "ZS-18",
+"n": "Costume Bear Plushy Keychain",
+"p": "Rs. 205/- each",
+"d": "Assorted hoodie costumes · 18 cm | MOQ: 4 pcs"
+},
+{
+"c": "ZS-19",
+"n": "Teddy Bear Plushy Keychain",
+"p": "Rs. 180/- each",
+"d": "Brown & white | MOQ: 4 pcs"
+},
+{
+"c": "ZS-20",
+"n": "Dancing Bee Bear Keychain",
+"p": "Rs. 220/- each",
+"d": "Bee costume, moving action | MOQ: 4 pcs"
+},
+{
+"c": "ZS-21",
+"n": "Ribbon Teddy Plushy Keychain",
+"p": "Rs. 180/- each",
+"d": "Satin ribbon | MOQ: 4 pcs"
+},
+{
+"c": "ZS-22",
+"n": "Costume Teddy Plushy Keychain",
+"p": "Rs. 210/- each",
+"d": "Assorted animal hoodies | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-23",
+"n": "Flower Bag Teddy Keychain",
+"p": "Rs. 175/- each",
+"d": "Crochet flower bag | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-24",
+"n": "Curly Teddy Plushy Keychain",
+"p": "Rs. 195/- each",
+"d": "Heart badge | MOQ: 4 sets (8 pcs)"
+}
+]
+},
+{
+"g": "Plushy Keychains",
+"t": "Pandas",
+"code": "ZS",
+"slug": "pk-panda",
+"items": [
+{
+"c": "ZS-25",
+"n": "Panda Plushy Keychain",
+"p": "Rs. 200/- each",
+"d": "Bamboo, cherry & camera | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-26",
+"n": "Panda Plushy Keychain",
+"p": "Rs. 170/- each",
+"d": "Mini sling bag | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-27",
+"n": "Panda Plushy Keychain",
+"p": "Rs. 190/- each",
+"d": "Corduroy dungarees | MOQ: 4 pcs"
+},
+{
+"c": "ZS-28",
+"n": "Baby Panda Plushy Keychain",
+"p": "Rs. 155/- each",
+"d": "With milk bottle | MOQ: 4 pcs"
+},
+{
+"c": "ZS-29",
+"n": "Wagging Tail Panda Keychain",
+"p": "Rs. 215/- each",
+"d": "Pull-string tail, no batteries | MOQ: 4 pcs"
+},
+{
+"c": "ZS-30",
+"n": "Scented Panda Plushy Keychain",
+"p": "Rs. 215/- each",
+"d": "Scented | MOQ: 4 pcs"
+},
+{
+"c": "ZS-31",
+"n": "Swing Panda Plushy Keychain",
+"p": "Rs. 140/- each",
+"d": "On a swing | MOQ: 4 pcs"
+},
+{
+"c": "ZS-32",
+"n": "Baby Bottle Panda Keychain",
+"p": "Rs. 180/- each",
+"d": "With milk bottle | MOQ: 4 pcs"
+},
+{
+"c": "ZS-33",
+"n": "Sporty Panda Plushy Keychain",
+"p": "Rs. 215/- each",
+"d": "Tennis, basketball & rugby | MOQ: 4 sets (4 pcs)"
+},
+{
+"c": "ZS-34",
+"n": "Lace Skirt Panda Keychain",
+"p": "Rs. 205/- each",
+"d": "Pastel lace skirts | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-35",
+"n": "Bucket Hat Panda Keychain",
+"p": "Rs. 215/- each",
+"d": "Colourful bucket hats | MOQ: 4 sets (8 pcs)"
+}
+]
+},
+{
+"g": "Plushy Keychains",
+"t": "Kitties & Cats",
+"code": "ZS",
+"slug": "pk-kitty",
+"items": [
+{
+"c": "ZS-36",
+"n": "Cat Plushy Keychain",
+"p": "Rs. 185/- each",
+"d": "Sunglasses & frill bib | MOQ: 4 pcs"
+},
+{
+"c": "ZS-37",
+"n": "White Kitten Plushy Keychain",
+"p": "Rs. 210/- each",
+"d": "Floral frock | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-38",
+"n": "White Kitten Plushy Keychain",
+"p": "Rs. 210/- each",
+"d": "Checked dungarees | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-39",
+"n": "White Kitten Plushy Keychain",
+"p": "Rs. 215/- each",
+"d": "Glasses & tweed skirt | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-40",
+"n": "Lazy Kitty Plushy Keychain",
+"p": "Rs. 245/- each",
+"d": "With jingle bells | MOQ: 4 pcs"
+},
+{
+"c": "ZS-41",
+"n": "Wiggle-Tail Kitty Keychain",
+"p": "Rs. 200/- each",
+"d": "Vibrating tail | MOQ: 4 pcs"
+},
+{
+"c": "ZS-42",
+"n": "Bandana Kitten Plushy Keychain",
+"p": "Rs. 220/- each",
+"d": "Gingham & polka-dot bandana | MOQ: 4 pcs"
+},
+{
+"c": "ZS-43",
+"n": "Sleepy Face Cat Keychain",
+"p": "Rs. 140/- each",
+"d": "Fluffy tail | MOQ: 4 pcs"
+},
+{
+"c": "ZS-44",
+"n": "White Kitten Love-Heart Keychain",
+"p": "Rs. 180/- each",
+"d": "Holding a LOVE heart | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-45",
+"n": "White Kitten Sweater Keychain",
+"p": "Rs. 215/- each",
+"d": "Knit sweater & boots | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-46",
+"n": "White Kitten Tweed Dress Keychain",
+"p": "Rs. 215/- each",
+"d": "Pearl necklace & boots | MOQ: 4 sets (8 pcs)"
+}
+]
+},
+{
+"g": "Plushy Keychains",
+"t": "Puppies",
+"code": "ZS",
+"slug": "pk-puppy",
+"items": [
+{
+"c": "ZS-47",
+"n": "Puppy Plushy Keychain",
+"p": "Rs. 215/- each",
+"d": "Cosy hoodie | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-48",
+"n": "Puppy Plushy Keychain",
+"p": "Rs. 210/- each",
+"d": "Heart sunglasses & lace collar | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-49",
+"n": "Hoodie Puppy Plushy Keychain",
+"p": "Rs. 210/- each",
+"d": "4 colours | MOQ: 4 pcs"
+},
+{
+"c": "ZS-50",
+"n": "Dancing Puppy Keychain",
+"p": "Rs. 225/- each",
+"d": "Moving action | MOQ: 4 pcs"
+},
+{
+"c": "ZS-51",
+"n": "Floppy Ear Puppy Keychain",
+"p": "Rs. 195/- each",
+"d": "Brown ears | MOQ: 4 pcs"
+},
+{
+"c": "ZS-52",
+"n": "Costume Puppy Plushy Keychain",
+"p": "Rs. 275/- each",
+"d": "8 hoodie costumes | MOQ: 4 pcs"
+},
+{
+"c": "ZS-53",
+"n": "Heart Puppy Plushy Keychain",
+"p": "Rs. 175/- each",
+"d": "Holding a heart | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-54",
+"n": "Bandana Puppy Plushy Keychain",
+"p": "Rs. 195/- each",
+"d": "Bone-print bandana | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-55",
+"n": "Satchel Puppy Plushy Keychain",
+"p": "Rs. 175/- each",
+"d": "Mini satchel bag | MOQ: 1 set (2 pcs)"
+}
+]
+},
+{
+"g": "Plushy Keychains",
+"t": "More Cute Friends",
+"code": "ZS",
+"slug": "pk-friends",
+"items": [
+{
+"c": "ZS-56",
+"n": "Sheep Plushy Keychain",
+"p": "Rs. 170/- each",
+"d": "Fluffy curly horns | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-57",
+"n": "Capybara Plushy Keychain",
+"p": "Rs. 215/- each",
+"d": "Kitty in capybara hood | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-58",
+"n": "Jungle Friends Clip Keychain",
+"p": "Rs. 150/- each",
+"d": "Elephant, giraffe, hippo & lion | MOQ: 4 pcs"
+},
+{
+"c": "ZS-59",
+"n": "Monkey Plushy Keychain",
+"p": "Rs. 200/- each",
+"d": "Long arms & legs | MOQ: 4 pcs"
+},
+{
+"c": "ZS-60",
+"n": "Fluffy Specs Buddy Keychain",
+"p": "Rs. 170/- each",
+"d": "Glasses & flower | MOQ: 4 pcs"
+},
+{
+"c": "ZS-61",
+"n": "Duck Hat Plushy Keychain",
+"p": "Rs. 160/- each",
+"d": "Pink & white | MOQ: 4 pcs"
+},
+{
+"c": "ZS-62",
+"n": "Cartoon Boy Plushy Keychain",
+"p": "Rs. 200/- each",
+"d": "Costume styles | MOQ: 4 pcs"
+},
+{
+"c": "ZS-63",
+"n": "Crocodile Magnet Keychain",
+"p": "Rs. 210/- each",
+"d": "Magnet + keychain | MOQ: 4 pcs"
+},
+{
+"c": "ZS-64",
+"n": "Animal Friends Plushy Keychain",
+"p": "Rs. 200/- each",
+"d": "Bunny, bear, elephant & panda | MOQ: 4 pcs"
+},
+{
+"c": "ZS-65",
+"n": "Baby Elephant Plushy Keychain",
+"p": "Rs. 235/- each",
+"d": "Soft blue | MOQ: 4 pcs"
+},
+{
+"c": "ZS-66",
+"n": "Wild Friends Plushy Keychain",
+"p": "Rs. 215/- each",
+"d": "Deer, leopard, tiger & lion | MOQ: 4 pcs"
+},
+{
+"c": "ZS-67",
+"n": "Pastel Friends Clip Keychain",
+"p": "Rs. 150/- each",
+"d": "Lace collar & pearl bow | MOQ: 4 pcs"
+},
+{
+"c": "ZS-68",
+"n": "Little Lion Plushy Keychain",
+"p": "Rs. 140/- each",
+"d": "Fluffy mane | MOQ: 4 pcs"
+},
+{
+"c": "ZS-69",
+"n": "Bow-Tie Bug Plushy Keychain",
+"p": "Rs. 210/- each",
+"d": "Black bow tie | MOQ: 4 pcs"
+},
+{
+"c": "ZS-70",
+"n": "Animal Plushy Keychain",
+"p": "Rs. 175/- each",
+"d": "Bear, elephant, mouse & panda | MOQ: 4 pcs"
+},
+{
+"c": "ZS-71",
+"n": "Elephant Plushy Keychain",
+"p": "Rs. 140/- each",
+"d": "Soft blue | MOQ: 4 pcs"
+},
+{
+"c": "ZS-72",
+"n": "Football Star Plushy Keychain",
+"p": "Rs. 235/- each",
+"d": "Jersey 7 & 10 | MOQ: 4 pcs"
+},
+{
+"c": "ZS-73",
+"n": "Hoodie Penguin Plushy Keychain",
+"p": "Rs. 210/- each",
+"d": "Pastel hoodies | MOQ: 4 pcs"
+},
+{
+"c": "ZS-74",
+"n": "Flamingo Plushy Keychain",
+"p": "Rs. 195/- each",
+"d": "Ballet bows | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-75",
+"n": "Snack Hamster Plushy Keychain",
+"p": "Rs. 185/- each",
+"d": "Pizza, boba, bun & donut | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-76",
+"n": "Blue Buddy Love-Heart Keychain",
+"p": "Rs. 205/- each",
+"d": "Holding a LOVE heart | MOQ: 4 sets (8 pcs)"
+},
+{
+"c": "ZS-77",
+"n": "Bow-Tie Penguin Plushy Keychain",
+"p": "Rs. 175/- each",
+"d": "Gingham bow tie | MOQ: 4 sets (8 pcs)"
+}
+]
+}
+]
 },
 {
 "name": "Stationery",
