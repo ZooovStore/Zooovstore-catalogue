@@ -4781,6 +4781,12 @@ const CATEGORIES = [
 "n": "Christmas Pencil Set 01",
 "p": "Rs. 79/- per set",
 "d": "12 colour pencils in Christmas gift box, assorted designs | MOQ: 24 sets"
+},
+{
+"c": "XM-22",
+"n": "Christmas Pencil Set 02",
+"p": "Rs. 59/- per set",
+"d": "6 printed pencils with erasers in Christmas gift box, assorted designs | MOQ: 24 sets"
 }
 ]
 }
@@ -5471,6 +5477,12 @@ const CATEGORIES = [
 "n": "Christmas Pencil Set 01",
 "p": "Rs. 79/- per set",
 "d": "12 colour pencils in Christmas gift box, assorted designs | MOQ: 24 sets"
+},
+{
+"c": "PCL-02",
+"n": "Christmas Pencil Set 02",
+"p": "Rs. 59/- per set",
+"d": "6 printed pencils with erasers in Christmas gift box, assorted designs | MOQ: 24 sets"
 }
 ]
 }
