@@ -4835,6 +4835,12 @@ const CATEGORIES = [
 "n": "Christmas Ballpoint Pen",
 "p": "Rs. 49/- each",
 "d": "Blue ballpoint pen (0.7 mm) with sparkle barrel & Christmas charm (mitten, snowman, tree) | MOQ: 48 pcs"
+},
+{
+"c": "XM-31",
+"n": "Christmas Circle Topper Pen",
+"p": "Rs. 55/- each",
+"d": "Gel pen with spinning ring topper (snowman, Santa, reindeer, tree) | MOQ: 36 pcs"
 }
 ]
 }
@@ -5527,6 +5533,12 @@ const CATEGORIES = [
 "n": "Christmas Ballpoint Pen",
 "p": "Rs. 49/- each",
 "d": "Blue ballpoint pen (0.7 mm) with sparkle barrel & Christmas charm (mitten, snowman, tree) | MOQ: 48 pcs"
+},
+{
+"c": "PN-08",
+"n": "Christmas Circle Topper Pen",
+"p": "Rs. 55/- each",
+"d": "Gel pen with spinning ring topper (snowman, Santa, reindeer, tree) | MOQ: 36 pcs"
 }
 ]
 },
