@@ -269,7 +269,7 @@ footer .copy{border-top:1px solid rgba(255,255,255,.12);text-align:center;font-s
 </div>
 <div class="toast" id="toast"></div>
 
-<script src="data.js?v=20261123zn"></script>
+<script src="data.js?v=20261123zo"></script>
 <script>
 
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
@@ -361,7 +361,7 @@ function catTile(c){
   const n=cnt(c);
   if(n){let sub4=["sb","p5","r6","bc"].map(k=>c.subs.find(s=>s.slug===k)).filter(Boolean);if(sub4.length<4)sub4=["cg","pt","sj","dr"].map(k=>c.subs.find(s=>s.slug===k)).filter(Boolean);if(sub4.length<4)sub4=c.subs.slice(0,4);
     const ph=sub4.length===4?`<div class="mosaic">${sub4.map(s=>`<img loading="lazy" src="${img(s,0)}" alt="">`).join("")}</div>`:`<img loading="lazy" src="${img(c.subs[0],0)}" alt="">`;
-    return `<a class="tile" href="#/c/${c.slug}"><div class="ph">${ph}<span class="lab">${n} designs</span></div><div class="tx"><h3>${esc(c.name)}</h3><div class="meta">${c.subs.length} sub-categories</div><div class="go">Explore ${arrow}</div></div></a>`}
+    return `<a class="tile" href="#/c/${c.slug}"><div class="ph">${ph}<span class="lab">${n} designs</span></div><div class="tx"><h3>${esc(c.name)}</h3><div class="meta">${FLAT.includes(c.slug)?n+" designs":c.subs.length+" sub-categories"}</div><div class="go">Explore ${arrow}</div></div></a>`}
   return `<a class="tile dim" href="#/c/${c.slug}"><div class="ph"><div class="ico">${ico(c.slug)}</div><span class="lab soon">Coming soon</span></div><div class="tx"><h3>${esc(c.name)}</h3><div class="meta">New stock arriving</div><div class="go">Enquire ${arrow}</div></div></a>`;
 }
 function subTile(c,s){
@@ -393,10 +393,12 @@ function home(){
   <div class="tiles">${["sb","p5","st","cb"].map(k=>subTile(w,ss(k))).join("")}</div></div></section>`;
   $$("#app [data-wa]").forEach(a=>a.href=wa("Hi Zooov! I'd like to enquire about bulk orders."));
 }
+const FLAT=["christmas-special","lamps","steel-bottles-mugs-tumblers","bags"];
 function cat(slug){
   const c=CATEGORIES.find(x=>x.slug===slug);if(!c)return home();
   const cr=`<a href="#/">Home</a> › <span>${esc(c.name)}</span>`;
   if(!c.subs.length){app.innerHTML=head(cr,c.name,"New collection")+`<div class="wrap"><div class="empty"><div class="ei">${ico(c.slug)}</div><h3>Coming soon</h3><p>We're adding ${esc(c.name)} to the catalogue. Message us for current stock & prices.</p><br><a class="btn wa" target="_blank" rel="noopener" href="${wa(`Hi Zooov! What do you have in ${c.name}?`)}">Ask on WhatsApp</a></div></div>`;return}
+  if(FLAT.includes(c.slug)){const items=c.subs.flatMap(s=>s.items);const draw=()=>{app.innerHTML=head(cr,c.name,`${items.length} designs`)+`<div class="wrap">${prodList(items)}</div>`;bindSort(draw)};draw();return}
   const groups=[...new Set(c.subs.map(s=>s.g))];
   app.innerHTML=head(cr,c.name,`${c.subs.length} sub-categories · ${cnt(c)} designs`)+`<div class="wrap">`+
    groups.map(g=>{const ss=c.subs.filter(s=>s.g===g);return `<h3 class="grp">${esc(g)} <span>${ss.length} sub-categories</span></h3><div class="tiles">${ss.map(s=>subTile(c,s)).join("")}</div>`}).join("")+`</div>`;
@@ -412,7 +414,7 @@ function search(q){
 function route(){
   const q=($$(".q").find(x=>x.value.trim())||{value:""}).value.trim();if(q.length>1)return search(q);
   const h=location.hash.replace(/^#\/?/,"").split("/");
-  if(h[0]==="c"&&h[2])sub(h[1],h[2]);else if(h[0]==="c")cat(h[1]);else home();
+  if(h[0]==="c"&&h[2]&&!FLAT.includes(h[1]))sub(h[1],h[2]);else if(h[0]==="c")cat(h[1]);else home();
 }
 /* menus */
 $("#ddp").innerHTML=CATEGORIES.map(c=>`<a href="#/c/${c.slug}">${esc(c.name)}<span>${cnt(c)?cnt(c):"Soon"}</span></a>`).join("");
