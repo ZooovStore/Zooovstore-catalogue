@@ -4703,7 +4703,7 @@ const CATEGORIES = [
 "subs": [
 {
 "g": "Lamps",
-"t": "Cork Lights",
+"t": "Lights & Night Lamps",
 "code": "LM",
 "slug": "lm",
 "items": [
@@ -4718,6 +4718,12 @@ const CATEGORIES = [
 "n": "Cork Light (Warm White)",
 "p": "Rs. 999/- per packet",
 "d": "Bottle cork LED string light, warm white | 1 Packet = 30 Lights"
+},
+{
+"c": "LM-03",
+"n": "Sleeping Panda Silicone Lamp",
+"p": "Rs. 320/- each",
+"d": "Soft silicone night lamp, tap on/off, 30-min timer, USB rechargeable | MOQ: 5 pcs"
 }
 ]
 }
