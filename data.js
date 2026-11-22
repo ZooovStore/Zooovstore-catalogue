@@ -4709,6 +4709,12 @@ const CATEGORIES = [
 "n": "Christmas Wooden Organizer",
 "p": "Rs. 99/- each",
 "d": "Hand-painted gift-box pen / card holder, assorted Christmas designs | MOQ: 24 pcs"
+},
+{
+"c": "XM-10",
+"n": "Christmas Highlighter Set",
+"p": "Rs. 119/- per set",
+"d": "6 mini highlighters with Christmas toppers, zip pouch | MOQ: 24 sets"
 }
 ]
 }
