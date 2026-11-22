@@ -4228,6 +4228,617 @@ const CATEGORIES = [
 ]
 },
 {
+"name": "Premium Return Gifts",
+"icon": "",
+"slug": "premium-return-gifts",
+"subs": [
+{
+"g": "German Silver",
+"t": "German Silver Glass Set",
+"code": "GG",
+"slug": "gg",
+"items": [
+{
+"c": "GG-01",
+"n": "Glass Set in Velvet Box",
+"p": "Rs. 650/- per set",
+"d": "Bottle + 4 glasses · ₹599 for 300+ sets | MOQ: 50 sets"
+},
+{
+"c": "GG-02",
+"n": "Bottle + Glasses Set",
+"p": "Rs. 650/- per set",
+"d": "Bottle + 4 glasses · ₹599 for 300+ sets | MOQ: 50 sets"
+},
+{
+"c": "GG-03",
+"n": "German Silver Bottle",
+"p": "Rs. 450/- each",
+"d": "Bottle only · ₹399 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "GG-04",
+"n": "Bottle in Velvet Box",
+"p": "Rs. 450/- each",
+"d": "Bottle only · ₹399 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Champagne Glasses",
+"code": "CG",
+"slug": "cg",
+"items": [
+{
+"c": "CG-01",
+"n": "Champagne Glass Pair",
+"p": "Rs. 1499/- per set",
+"d": "Engraved silver, gold-tone stem, velvet gift box | MOQ: 50 sets"
+},
+{
+"c": "CG-02",
+"n": "Champagne Set with Gift Box",
+"p": "Rs. 1499/- per set",
+"d": "Engraved silver, gold-tone stem, velvet gift box | MOQ: 50 sets"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Parrot Bowl",
+"code": "PW",
+"slug": "pw",
+"items": [
+{
+"c": "PW-01",
+"n": "Parrot Bowl – Single",
+"p": "Rs. 150/- each",
+"d": "Filigree dry fruit bowl · ₹140 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PW-02",
+"n": "Parrot Bowl Set with Tray",
+"p": "Rs. 150/- each",
+"d": "2 bowls + silver tray · ₹140 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PW-03",
+"n": "Parrot Bowl – Close Up",
+"p": "Rs. 150/- each",
+"d": "Detailed parrot figurine handles · ₹140 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PW-04",
+"n": "Parrot Bowl Duo",
+"p": "Rs. 150/- each",
+"d": "Dry fruit gift set · ₹140 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Bowl Set",
+"code": "BS",
+"slug": "bs",
+"items": [
+{
+"c": "BS-01",
+"n": "2 Bowl + Tray Set (Velvet Box)",
+"p": "Rs. 210/- per set",
+"d": "With 2 spoons · ₹199 for 300+ sets | MOQ: 50 sets"
+},
+{
+"c": "BS-02",
+"n": "2 Bowl + Tray Set",
+"p": "Rs. 210/- per set",
+"d": "Elegant display · ₹199 for 300+ sets | MOQ: 50 sets"
+},
+{
+"c": "BS-03",
+"n": "Single Bowl + Spoon",
+"p": "Rs. 110/- per set",
+"d": "Velvet box · ₹100 for 300+ sets | MOQ: 50 sets"
+},
+{
+"c": "BS-04",
+"n": "Single Bowl Set",
+"p": "Rs. 110/- per set",
+"d": "Premium silver plated · ₹100 for 300+ sets | MOQ: 50 sets"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Tilak Chopra",
+"code": "TK",
+"slug": "tk",
+"items": [
+{
+"c": "TK-01",
+"n": "Tilak Chopra in Velvet Box",
+"p": "Rs. 220/- each",
+"d": "Peacock feather, crystal studded · ₹199 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "TK-02",
+"n": "Tilak Chopra Display",
+"p": "Rs. 220/- each",
+"d": "Silver plated, gift ready · ₹199 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "Silver Floral Dry Fruit Jars",
+"code": "DJ",
+"slug": "dj",
+"items": [
+{
+"c": "DJ-01",
+"n": "Silver Floral Dry Fruit Jar",
+"p": "Rs. 499/- per set",
+"d": "2 jars in velvet box · ₹450 for 300+ sets | MOQ: 50 sets"
+},
+{
+"c": "DJ-02",
+"n": "Jar Pair in Gift Box",
+"p": "Rs. 499/- per set",
+"d": "Crystal lid, premium packing · ₹450 for 300+ sets | MOQ: 50 sets"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Dry Fruit Box",
+"code": "DF",
+"slug": "df",
+"items": [
+{
+"c": "DF-01",
+"n": "Tray + 4 Bowl Set",
+"p": "Rs. 899/- per set",
+"d": "Crystal floral rim tray · ₹850 for 300+ sets | MOQ: 50 sets"
+},
+{
+"c": "DF-02",
+"n": "Complete Gift Set",
+"p": "Rs. 899/- per set",
+"d": "German silver, premium display · ₹850 for 300+ sets | MOQ: 50 sets"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "Swastik Gold Silver Jyot",
+"code": "SJ",
+"slug": "sj",
+"items": [
+{
+"c": "SJ-01",
+"n": "Swastik Jyot – Lit Display",
+"p": "Rs. 299/- each",
+"d": "Gold & silver finish diya · ₹250 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "SJ-02",
+"n": "Swastik Jyot in Velvet Box",
+"p": "Rs. 299/- each",
+"d": "Red velvet box, gift ready · ₹250 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Diya & Aarti Set",
+"code": "DA",
+"slug": "da",
+"items": [
+{
+"c": "DA-01",
+"n": "Diya & Aarti Set in Velvet Box",
+"p": "Rs. 349/- per set",
+"d": "Pooja diya + aarti, velvet box | MOQ: 50 sets"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Ghungroo Thali Set",
+"code": "GT",
+"slug": "gt",
+"items": [
+{
+"c": "GT-01",
+"n": "Ghungroo Pooja Thali",
+"p": "Rs. 2200/- per set",
+"d": "10 inch Swastik thali, bell, kalash, diya & bowls, velvet box | MOQ: 50 sets"
+},
+{
+"c": "GT-02",
+"n": "Complete Set Contents",
+"p": "Rs. 2200/- per set",
+"d": "10 inch thali · bell · kalash · diya · bowl | MOQ: 50 sets"
+}
+]
+},
+{
+"g": "German Silver",
+"t": "German Silver Shubh Labh Hangings",
+"code": "SL",
+"slug": "sl",
+"items": [
+{
+"c": "SL-01",
+"n": "Shubh Labh Pair + Velvet Box",
+"p": "Rs. 299/- each",
+"d": "Auspicious door / mandir hanging | MOQ: 50 pcs"
+},
+{
+"c": "SL-02",
+"n": "Shubh Labh – Mandir Display",
+"p": "Rs. 299/- each",
+"d": "Auspicious door / mandir hanging | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Pichwai Art",
+"t": "Pichwai Art Jars",
+"code": "PJ",
+"slug": "pj",
+"items": [
+{
+"c": "PJ-01",
+"n": "Orange Floral Pichwai Jar",
+"p": "Rs. 150/- each",
+"d": "Hand-painted ceramic jar · ₹120 for 500+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PJ-02",
+"n": "Pink Lotus Pichwai Jar",
+"p": "Rs. 150/- each",
+"d": "Hand-painted ceramic jar · ₹120 for 500+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PJ-03",
+"n": "Maroon Royal Pichwai Jar",
+"p": "Rs. 150/- each",
+"d": "Hand-painted ceramic jar · ₹120 for 500+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PJ-04",
+"n": "Sunshine Yellow Pichwai Jar",
+"p": "Rs. 150/- each",
+"d": "Hand-painted ceramic jar · ₹120 for 500+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PJ-05",
+"n": "Teal Garden Pichwai Jar",
+"p": "Rs. 150/- each",
+"d": "Hand-painted ceramic jar · ₹120 for 500+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Pichwai Art",
+"t": "Pichwai Art Trays",
+"code": "PT",
+"slug": "pt",
+"items": [
+{
+"c": "PT-01",
+"n": "Yellow Pichwai Tray Set",
+"p": "Rs. 130/- each",
+"d": "6 inch ₹130, 8 inch ₹160 (without jars) · lower rates for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PT-02",
+"n": "Pichwai Tray + Jar Combo",
+"p": "Rs. 220/- each",
+"d": "6 inch tray with 1 jar · ₹200 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PT-03",
+"n": "8 inch Tray with 2 Pichwai Jars",
+"p": "Rs. 399/- each",
+"d": "8 inch tray + 2 jars · ₹350 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "PT-04",
+"n": "Red Pichwai Art Tray",
+"p": "Rs. 130/- each",
+"d": "6 inch tray, without jars · ₹120 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Brass",
+"t": "Brass Dabra Set",
+"code": "DR",
+"slug": "dr",
+"items": [
+{
+"c": "DR-01",
+"n": "Engraved Brass Dabra Set",
+"p": "Rs. 350/- per set",
+"d": "Tumbler + dabra, pure brass | MOQ: 50 sets"
+},
+{
+"c": "DR-02",
+"n": "Brass Tumbler & Dabra",
+"p": "Rs. 350/- per set",
+"d": "Traditional South Indian style | MOQ: 50 sets"
+}
+]
+},
+{
+"g": "Potlis & Purses",
+"t": "Dholak Bags",
+"code": "DH",
+"slug": "dh",
+"items": [
+{
+"c": "DH-01",
+"n": "Dholak Bag – Pearl Handle",
+"p": "Rs. 170/- each",
+"d": "Bandhani fabric · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "DH-02",
+"n": "Dholak Bag – Gold Gota",
+"p": "Rs. 170/- each",
+"d": "Double-side opening, zipper · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "DH-03",
+"n": "Dholak Bag – 6 Colours",
+"p": "Rs. 170/- each",
+"d": "Gold gota patti · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Potlis & Purses",
+"t": "Embroidered Matki Box",
+"code": "MB",
+"slug": "mb",
+"items": [
+{
+"c": "MB-01",
+"n": "Embroidered Matki Box",
+"p": "Rs. 170/- each",
+"d": "Zari work, comes with free fragrance gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "MB-02",
+"n": "Matki Box Collection",
+"p": "Rs. 170/- each",
+"d": "3.5 inch, zipper closure, free gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Potlis & Purses",
+"t": "Purses & Shagun Envelopes",
+"code": "SE",
+"slug": "se",
+"items": [
+{
+"c": "SE-01",
+"n": "Kundan Purse / Shagun",
+"p": "Rs. 80/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-02",
+"n": "Lotus Pearl Purse / Shagun",
+"p": "Rs. 85/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-03",
+"n": "Gotta Patti Purse / Shagun",
+"p": "Rs. 80/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-04",
+"n": "Jaipuri Print Purse / Shagun",
+"p": "Rs. 70/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-05",
+"n": "Embroidered Purse / Shagun",
+"p": "Rs. 100/- each",
+"d": "MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Potlis & Purses",
+"t": "Angoori Potli & Mini Purses",
+"code": "MP",
+"slug": "mp",
+"items": [
+{
+"c": "MP-01",
+"n": "Angoori Potli",
+"p": "Rs. 80/- each",
+"d": "Zari embroidered, pearl bead handle, 8+ colours | MOQ: 50 pcs"
+},
+{
+"c": "MP-02",
+"n": "Printed Gotta Purse / Shagun Envelope",
+"p": "Rs. 90/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "MP-03",
+"n": "Mini Purse / Shagun Envelope",
+"p": "Rs. 60/- each",
+"d": "MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Potlis & Purses",
+"t": "Embroidered Velvet Potli",
+"code": "VP",
+"slug": "vp",
+"items": [
+{
+"c": "VP-01",
+"n": "Orange Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+},
+{
+"c": "VP-02",
+"n": "Red Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+},
+{
+"c": "VP-03",
+"n": "Yellow Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+},
+{
+"c": "VP-04",
+"n": "Maroon Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+}
+]
+},
+{
+"g": "Potlis & Purses",
+"t": "Gota Check & Lehriya Potli",
+"code": "GL",
+"slug": "gl",
+"items": [
+{
+"c": "GL-01",
+"n": "Gota Check Velvet Potli",
+"p": "Rs. 5000/- per packet",
+"d": "9x12 inch, ₹50 per piece | 1 Packet = 100 Pieces"
+},
+{
+"c": "GL-02",
+"n": "Lehriya Potli – Bulk",
+"p": "Rs. 5000/- per packet",
+"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
+},
+{
+"c": "GL-03",
+"n": "Lehriya Potli – All Colours",
+"p": "Rs. 5000/- per packet",
+"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
+}
+]
+},
+{
+"g": "Shringar & Badges",
+"t": "Ladkewale & Ladkiwale Badges",
+"code": "BD",
+"slug": "bd",
+"items": [
+{
+"c": "BD-01",
+"n": "Badge with Peacock + Double Chain",
+"p": "Rs. 50/- each",
+"d": "Gold badge, pearl chain, peacock feather | MOQ: 50 pcs"
+},
+{
+"c": "BD-02",
+"n": "Badge with Peacock + Single Chain",
+"p": "Rs. 45/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "BD-03",
+"n": "Badge without Peacock (Double Chain)",
+"p": "Rs. 40/- each",
+"d": "Gold Ladkewale / Ladkiwale script | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Shringar & Badges",
+"t": "Pearl & Ghungroo Bracelets",
+"code": "GB",
+"slug": "gb",
+"items": [
+{
+"c": "GB-01",
+"n": "Pearl & Ghungroo Bracelet – Red",
+"p": "Rs. 25/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "GB-02",
+"n": "Red Ghungroo Bulk Pack",
+"p": "Rs. 25/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "GB-03",
+"n": "Green Ghungroo Bracelet",
+"p": "Rs. 25/- each",
+"d": "MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Shringar & Badges",
+"t": "Shell & Ghungroo Haath Bandh",
+"code": "SH",
+"slug": "sh",
+"items": [
+{
+"c": "SH-01",
+"n": "Shell & Bead Bracelet",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-02",
+"n": "Ghungroo Haath Bandh",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-03",
+"n": "Shell Bracelet Pair",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-04",
+"n": "Pink Silk Shell Bangle",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-05",
+"n": "Pink Shell Earrings",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-06",
+"n": "Gold Frame Potli Basket",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+}
+]
+}
+]
+},
+{
 "name": "Christmas Special",
 "icon": "🎄",
 "slug": "christmas-special",

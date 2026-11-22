@@ -359,7 +359,7 @@ const cnt=c=>c.subs.reduce((a,s)=>a+s.items.length,0);
 const minP=items=>Math.min(...items.map(x=>x.val));
 function catTile(c){
   const n=cnt(c);
-  if(n){const sub4=["sb","p5","r6","bc"].map(k=>c.subs.find(s=>s.slug===k)).filter(Boolean);
+  if(n){let sub4=["sb","p5","r6","bc"].map(k=>c.subs.find(s=>s.slug===k)).filter(Boolean);if(sub4.length<4)sub4=["cg","pt","sj","dr"].map(k=>c.subs.find(s=>s.slug===k)).filter(Boolean);if(sub4.length<4)sub4=c.subs.slice(0,4);
     const ph=sub4.length===4?`<div class="mosaic">${sub4.map(s=>`<img loading="lazy" src="${img(s,0)}" alt="">`).join("")}</div>`:`<img loading="lazy" src="${img(c.subs[0],0)}" alt="">`;
     return `<a class="tile" href="#/c/${c.slug}"><div class="ph">${ph}<span class="lab">${n} designs</span></div><div class="tx"><h3>${esc(c.name)}</h3><div class="meta">${c.subs.length} sub-categories</div><div class="go">Explore ${arrow}</div></div></a>`}
   return `<a class="tile dim" href="#/c/${c.slug}"><div class="ph"><div class="ico">${ico(c.slug)}</div><span class="lab soon">Coming soon</span></div><div class="tx"><h3>${esc(c.name)}</h3><div class="meta">New stock arriving</div><div class="go">Enquire ${arrow}</div></div></a>`;
