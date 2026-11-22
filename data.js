@@ -5319,7 +5319,28 @@ const CATEGORIES = [
 "name": "Stationery",
 "icon": "✏️",
 "slug": "stationery",
-"subs": []
+"subs": [
+{
+"g": "Stationery",
+"t": "Highlighters",
+"code": "HL",
+"slug": "hl",
+"items": [
+{
+"c": "HL-01",
+"n": "Christmas Highlighter Set",
+"p": "Rs. 119/- per set",
+"d": "6 mini highlighters with Christmas toppers, zip pouch | MOQ: 24 sets"
+},
+{
+"c": "HL-02",
+"n": "Christmas Highlighter Pack (Matte)",
+"p": "Rs. 135/- per set",
+"d": "6 matte pastel highlighters with Christmas toppers, zip pouch | MOQ: 24 sets"
+}
+]
+}
+]
 },
 {
 "name": "Action Figures",
