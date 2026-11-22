@@ -4799,6 +4799,12 @@ const CATEGORIES = [
 "n": "Christmas Multi Refill Pen",
 "p": "Rs. 49/- each",
 "d": "10-colour ball pen with Christmas topper (Santa, reindeer, tree, house) | MOQ: 36 pcs"
+},
+{
+"c": "XM-25",
+"n": "Christmas Keychain Pen",
+"p": "Rs. 49/- each",
+"d": "Gel pen with detachable Christmas keychain charm (Santa, tree), red & green | MOQ: 36 pcs"
 }
 ]
 }
@@ -5455,6 +5461,12 @@ const CATEGORIES = [
 "n": "Christmas Multi Refill Pen",
 "p": "Rs. 49/- each",
 "d": "10-colour ball pen with Christmas topper (Santa, reindeer, tree, house) | MOQ: 36 pcs"
+},
+{
+"c": "PN-03",
+"n": "Christmas Keychain Pen",
+"p": "Rs. 49/- each",
+"d": "Gel pen with detachable Christmas keychain charm (Santa, tree), red & green | MOQ: 36 pcs"
 }
 ]
 },
