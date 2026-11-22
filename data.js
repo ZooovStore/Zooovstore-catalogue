@@ -4793,6 +4793,12 @@ const CATEGORIES = [
 "n": "Christmas Highlighter Pen",
 "p": "Rs. 30/- each",
 "d": "Single highlighter with Christmas topper (Santa, reindeer, tree), assorted colours | MOQ: 36 pcs"
+},
+{
+"c": "XM-24",
+"n": "Christmas Multi Refill Pen",
+"p": "Rs. 49/- each",
+"d": "10-colour ball pen with Christmas topper (Santa, reindeer, tree, house) | MOQ: 36 pcs"
 }
 ]
 }
@@ -5443,6 +5449,12 @@ const CATEGORIES = [
 "n": "Christmas Rubber Pen",
 "p": "Rs. 30/- each",
 "d": "Ball pen with soft Christmas topper (Santa, snowman, reindeer, tree, gift) | MOQ: 36 pcs"
+},
+{
+"c": "PN-02",
+"n": "Christmas Multi Refill Pen",
+"p": "Rs. 49/- each",
+"d": "10-colour ball pen with Christmas topper (Santa, reindeer, tree, house) | MOQ: 36 pcs"
 }
 ]
 },
