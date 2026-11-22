@@ -4697,6 +4697,12 @@ const CATEGORIES = [
 "n": "Christmas Piggy Bank",
 "p": "Rs. 89/- each",
 "d": "Mini tin money bank with lock & key, assorted Christmas prints | MOQ: 24 pcs"
+},
+{
+"c": "XM-08",
+"n": "Christmas Wooden Piggy Bank",
+"p": "Rs. 125/- each",
+"d": "Hand-painted wooden house money bank, assorted Christmas designs | MOQ: 12 pcs"
 }
 ]
 }
