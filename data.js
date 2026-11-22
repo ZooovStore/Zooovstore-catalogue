@@ -4763,6 +4763,12 @@ const CATEGORIES = [
 "n": "Christmas Plushy Pouch Keychain",
 "p": "Rs. 99/- each",
 "d": "Fluffy zip coin pouch with clip, embroidered Christmas designs | MOQ: 12 pcs"
+},
+{
+"c": "XM-19",
+"n": "Christmas Slider Piggy Bank",
+"p": "Rs. 99/- each",
+"d": "Square tin money bank with slide-open base, assorted Christmas prints | MOQ: 24 pcs"
 }
 ]
 }
