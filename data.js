@@ -4769,6 +4769,12 @@ const CATEGORIES = [
 "n": "Christmas Slider Piggy Bank",
 "p": "Rs. 99/- each",
 "d": "Square tin money bank with slide-open base, assorted Christmas prints | MOQ: 24 pcs"
+},
+{
+"c": "XM-20",
+"n": "Christmas Wooden Pen Stand",
+"p": "Rs. 89/- each",
+"d": "Square wooden pen / desk organizer, red & green, assorted Christmas designs | MOQ: 30 pcs"
 }
 ]
 }
