@@ -4829,6 +4829,12 @@ const CATEGORIES = [
 "n": "Christmas Topper Pen",
 "p": "Rs. 49/- each",
 "d": "Blue ballpoint pen (0.7 mm) with Christmas topper (house, tree, Santa) | MOQ: 36 pcs"
+},
+{
+"c": "XM-30",
+"n": "Christmas Ballpoint Pen",
+"p": "Rs. 49/- each",
+"d": "Blue ballpoint pen (0.7 mm) with sparkle barrel & Christmas charm (mitten, snowman, tree) | MOQ: 48 pcs"
 }
 ]
 }
@@ -5515,6 +5521,12 @@ const CATEGORIES = [
 "n": "Christmas Topper Pen",
 "p": "Rs. 49/- each",
 "d": "Blue ballpoint pen (0.7 mm) with Christmas topper (house, tree, Santa) | MOQ: 36 pcs"
+},
+{
+"c": "PN-07",
+"n": "Christmas Ballpoint Pen",
+"p": "Rs. 49/- each",
+"d": "Blue ballpoint pen (0.7 mm) with sparkle barrel & Christmas charm (mitten, snowman, tree) | MOQ: 48 pcs"
 }
 ]
 },
