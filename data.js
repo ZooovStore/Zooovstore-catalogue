@@ -1496,6 +1496,136 @@ const CATEGORIES = [
 ]
 },
 {
+"g": "Potlis",
+"t": "Dholak Bags",
+"code": "DH",
+"slug": "dh",
+"items": [
+{
+"c": "DH-01",
+"n": "Dholak Bag – Pearl Handle",
+"p": "Rs. 170/- each",
+"d": "Bandhani fabric · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "DH-02",
+"n": "Dholak Bag – Gold Gota",
+"p": "Rs. 170/- each",
+"d": "Double-side opening, zipper · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "DH-03",
+"n": "Dholak Bag – 6 Colours",
+"p": "Rs. 170/- each",
+"d": "Gold gota patti · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Potlis",
+"t": "Embroidered Matki Box",
+"code": "MB",
+"slug": "mb",
+"items": [
+{
+"c": "MB-01",
+"n": "Embroidered Matki Box",
+"p": "Rs. 170/- each",
+"d": "Zari work, comes with free fragrance gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
+},
+{
+"c": "MB-02",
+"n": "Matki Box Collection",
+"p": "Rs. 170/- each",
+"d": "3.5 inch, zipper closure, free gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Potlis",
+"t": "Angoori Potli & Mini Purses",
+"code": "MP",
+"slug": "mp",
+"items": [
+{
+"c": "MP-01",
+"n": "Angoori Potli",
+"p": "Rs. 80/- each",
+"d": "Zari embroidered, pearl bead handle, 8+ colours | MOQ: 50 pcs"
+},
+{
+"c": "MP-02",
+"n": "Printed Gotta Purse / Shagun Envelope",
+"p": "Rs. 90/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "MP-03",
+"n": "Mini Purse / Shagun Envelope",
+"p": "Rs. 60/- each",
+"d": "MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Potlis",
+"t": "Embroidered Velvet Potli",
+"code": "VP",
+"slug": "vp",
+"items": [
+{
+"c": "VP-01",
+"n": "Orange Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+},
+{
+"c": "VP-02",
+"n": "Red Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+},
+{
+"c": "VP-03",
+"n": "Yellow Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+},
+{
+"c": "VP-04",
+"n": "Maroon Velvet Potli",
+"p": "Rs. 3500/- per packet",
+"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
+}
+]
+},
+{
+"g": "Potlis",
+"t": "Gota Check & Lehriya Potli",
+"code": "GL",
+"slug": "gl",
+"items": [
+{
+"c": "GL-01",
+"n": "Gota Check Velvet Potli",
+"p": "Rs. 5000/- per packet",
+"d": "9x12 inch, ₹50 per piece | 1 Packet = 100 Pieces"
+},
+{
+"c": "GL-02",
+"n": "Lehriya Potli – Bulk",
+"p": "Rs. 5000/- per packet",
+"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
+},
+{
+"c": "GL-03",
+"n": "Lehriya Potli – All Colours",
+"p": "Rs. 5000/- per packet",
+"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
+}
+]
+},
+{
 "g": "Bags & Covers",
 "t": "Chudi Bag Print",
 "code": "CB",
@@ -2845,6 +2975,44 @@ const CATEGORIES = [
 "n": "Lotus Envelope",
 "p": "Rs. 75/- each",
 "d": "Lotus Envelope | MOQ: 30 pcs"
+}
+]
+},
+{
+"g": "Envelopes",
+"t": "Purses & Shagun Envelopes",
+"code": "SE",
+"slug": "se",
+"items": [
+{
+"c": "SE-01",
+"n": "Kundan Purse / Shagun",
+"p": "Rs. 80/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-02",
+"n": "Lotus Pearl Purse / Shagun",
+"p": "Rs. 85/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-03",
+"n": "Gotta Patti Purse / Shagun",
+"p": "Rs. 80/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-04",
+"n": "Jaipuri Print Purse / Shagun",
+"p": "Rs. 70/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SE-05",
+"n": "Embroidered Purse / Shagun",
+"p": "Rs. 100/- each",
+"d": "MOQ: 50 pcs"
 }
 ]
 },
@@ -4224,6 +4392,102 @@ const CATEGORIES = [
 "d": "Fancy Mirror | 1 Packet = 50 Pieces"
 }
 ]
+},
+{
+"g": "Shringar & Accessories",
+"t": "Ladkewale & Ladkiwale Badges",
+"code": "BD",
+"slug": "bd",
+"items": [
+{
+"c": "BD-01",
+"n": "Badge with Peacock + Double Chain",
+"p": "Rs. 50/- each",
+"d": "Gold badge, pearl chain, peacock feather | MOQ: 50 pcs"
+},
+{
+"c": "BD-02",
+"n": "Badge with Peacock + Single Chain",
+"p": "Rs. 45/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "BD-03",
+"n": "Badge without Peacock (Double Chain)",
+"p": "Rs. 40/- each",
+"d": "Gold Ladkewale / Ladkiwale script | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Shringar & Accessories",
+"t": "Pearl & Ghungroo Bracelets",
+"code": "GB",
+"slug": "gb",
+"items": [
+{
+"c": "GB-01",
+"n": "Pearl & Ghungroo Bracelet – Red",
+"p": "Rs. 25/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "GB-02",
+"n": "Red Ghungroo Bulk Pack",
+"p": "Rs. 25/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "GB-03",
+"n": "Green Ghungroo Bracelet",
+"p": "Rs. 25/- each",
+"d": "MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Shringar & Accessories",
+"t": "Shell & Ghungroo Haath Bandh",
+"code": "SH",
+"slug": "sh",
+"items": [
+{
+"c": "SH-01",
+"n": "Shell & Bead Bracelet",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-02",
+"n": "Ghungroo Haath Bandh",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-03",
+"n": "Shell Bracelet Pair",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-04",
+"n": "Pink Silk Shell Bangle",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-05",
+"n": "Pink Shell Earrings",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+},
+{
+"c": "SH-06",
+"n": "Gold Frame Potli Basket",
+"p": "Rs. 65/- each",
+"d": "MOQ: 50 pcs"
+}
+]
 }
 ]
 },
@@ -4569,270 +4833,6 @@ const CATEGORIES = [
 "n": "Brass Tumbler & Dabra",
 "p": "Rs. 350/- per set",
 "d": "Traditional South Indian style | MOQ: 50 sets"
-}
-]
-},
-{
-"g": "Potlis & Purses",
-"t": "Dholak Bags",
-"code": "DH",
-"slug": "dh",
-"items": [
-{
-"c": "DH-01",
-"n": "Dholak Bag – Pearl Handle",
-"p": "Rs. 170/- each",
-"d": "Bandhani fabric · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "DH-02",
-"n": "Dholak Bag – Gold Gota",
-"p": "Rs. 170/- each",
-"d": "Double-side opening, zipper · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "DH-03",
-"n": "Dholak Bag – 6 Colours",
-"p": "Rs. 170/- each",
-"d": "Gold gota patti · ₹160 for 100+, ₹150 for 300+ pcs | MOQ: 50 pcs"
-}
-]
-},
-{
-"g": "Potlis & Purses",
-"t": "Embroidered Matki Box",
-"code": "MB",
-"slug": "mb",
-"items": [
-{
-"c": "MB-01",
-"n": "Embroidered Matki Box",
-"p": "Rs. 170/- each",
-"d": "Zari work, comes with free fragrance gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
-},
-{
-"c": "MB-02",
-"n": "Matki Box Collection",
-"p": "Rs. 170/- each",
-"d": "3.5 inch, zipper closure, free gajra · ₹150 for 300+ pcs | MOQ: 50 pcs"
-}
-]
-},
-{
-"g": "Potlis & Purses",
-"t": "Purses & Shagun Envelopes",
-"code": "SE",
-"slug": "se",
-"items": [
-{
-"c": "SE-01",
-"n": "Kundan Purse / Shagun",
-"p": "Rs. 80/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SE-02",
-"n": "Lotus Pearl Purse / Shagun",
-"p": "Rs. 85/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SE-03",
-"n": "Gotta Patti Purse / Shagun",
-"p": "Rs. 80/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SE-04",
-"n": "Jaipuri Print Purse / Shagun",
-"p": "Rs. 70/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SE-05",
-"n": "Embroidered Purse / Shagun",
-"p": "Rs. 100/- each",
-"d": "MOQ: 50 pcs"
-}
-]
-},
-{
-"g": "Potlis & Purses",
-"t": "Angoori Potli & Mini Purses",
-"code": "MP",
-"slug": "mp",
-"items": [
-{
-"c": "MP-01",
-"n": "Angoori Potli",
-"p": "Rs. 80/- each",
-"d": "Zari embroidered, pearl bead handle, 8+ colours | MOQ: 50 pcs"
-},
-{
-"c": "MP-02",
-"n": "Printed Gotta Purse / Shagun Envelope",
-"p": "Rs. 90/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "MP-03",
-"n": "Mini Purse / Shagun Envelope",
-"p": "Rs. 60/- each",
-"d": "MOQ: 50 pcs"
-}
-]
-},
-{
-"g": "Potlis & Purses",
-"t": "Embroidered Velvet Potli",
-"code": "VP",
-"slug": "vp",
-"items": [
-{
-"c": "VP-01",
-"n": "Orange Velvet Potli",
-"p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
-},
-{
-"c": "VP-02",
-"n": "Red Velvet Potli",
-"p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
-},
-{
-"c": "VP-03",
-"n": "Yellow Velvet Potli",
-"p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
-},
-{
-"c": "VP-04",
-"n": "Maroon Velvet Potli",
-"p": "Rs. 3500/- per packet",
-"d": "Gold sequin embroidery, 7x9 inch | 1 Packet = 100 Pieces"
-}
-]
-},
-{
-"g": "Potlis & Purses",
-"t": "Gota Check & Lehriya Potli",
-"code": "GL",
-"slug": "gl",
-"items": [
-{
-"c": "GL-01",
-"n": "Gota Check Velvet Potli",
-"p": "Rs. 5000/- per packet",
-"d": "9x12 inch, ₹50 per piece | 1 Packet = 100 Pieces"
-},
-{
-"c": "GL-02",
-"n": "Lehriya Potli – Bulk",
-"p": "Rs. 5000/- per packet",
-"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
-},
-{
-"c": "GL-03",
-"n": "Lehriya Potli – All Colours",
-"p": "Rs. 5000/- per packet",
-"d": "5x7 inch 250 pcs ₹5,000 · 7x9 inch 200 pcs ₹6,500 · 8x10 inch 100 pcs ₹5,000"
-}
-]
-},
-{
-"g": "Shringar & Badges",
-"t": "Ladkewale & Ladkiwale Badges",
-"code": "BD",
-"slug": "bd",
-"items": [
-{
-"c": "BD-01",
-"n": "Badge with Peacock + Double Chain",
-"p": "Rs. 50/- each",
-"d": "Gold badge, pearl chain, peacock feather | MOQ: 50 pcs"
-},
-{
-"c": "BD-02",
-"n": "Badge with Peacock + Single Chain",
-"p": "Rs. 45/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "BD-03",
-"n": "Badge without Peacock (Double Chain)",
-"p": "Rs. 40/- each",
-"d": "Gold Ladkewale / Ladkiwale script | MOQ: 50 pcs"
-}
-]
-},
-{
-"g": "Shringar & Badges",
-"t": "Pearl & Ghungroo Bracelets",
-"code": "GB",
-"slug": "gb",
-"items": [
-{
-"c": "GB-01",
-"n": "Pearl & Ghungroo Bracelet – Red",
-"p": "Rs. 25/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "GB-02",
-"n": "Red Ghungroo Bulk Pack",
-"p": "Rs. 25/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "GB-03",
-"n": "Green Ghungroo Bracelet",
-"p": "Rs. 25/- each",
-"d": "MOQ: 50 pcs"
-}
-]
-},
-{
-"g": "Shringar & Badges",
-"t": "Shell & Ghungroo Haath Bandh",
-"code": "SH",
-"slug": "sh",
-"items": [
-{
-"c": "SH-01",
-"n": "Shell & Bead Bracelet",
-"p": "Rs. 65/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SH-02",
-"n": "Ghungroo Haath Bandh",
-"p": "Rs. 65/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SH-03",
-"n": "Shell Bracelet Pair",
-"p": "Rs. 65/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SH-04",
-"n": "Pink Silk Shell Bangle",
-"p": "Rs. 65/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SH-05",
-"n": "Pink Shell Earrings",
-"p": "Rs. 65/- each",
-"d": "MOQ: 50 pcs"
-},
-{
-"c": "SH-06",
-"n": "Gold Frame Potli Basket",
-"p": "Rs. 65/- each",
-"d": "MOQ: 50 pcs"
 }
 ]
 }
