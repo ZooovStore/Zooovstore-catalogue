@@ -4751,6 +4751,12 @@ const CATEGORIES = [
 "n": "Christmas Gift Bag 04",
 "p": "Rs. 35/- each",
 "d": "Basket-shape zip-lock gift / candy bag with handle and clear window | MOQ: 50 pcs"
+},
+{
+"c": "XM-17",
+"n": "Christmas Tin Piggy Bank",
+"p": "Rs. 99/- each",
+"d": "House-shape tin money bank with lock & key, assorted colours | MOQ: 24 pcs"
 }
 ]
 }
