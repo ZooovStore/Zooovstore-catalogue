@@ -4679,6 +4679,12 @@ const CATEGORIES = [
 "n": "Christmas Steel Stylo Tumbler",
 "p": "Rs. 650/- each",
 "d": "Stainless steel tumbler with handle, Santa & Christmas prints | MOQ: 4 pcs"
+},
+{
+"c": "XM-05",
+"n": "Christmas Steel Sipper",
+"p": "Rs. 599/- each",
+"d": "Stainless steel coffee sipper with strap, Christmas prints | MOQ: 4 pcs"
 }
 ]
 }
@@ -4718,7 +4724,7 @@ const CATEGORIES = [
 "subs": [
 {
 "g": "Steel Bottles, Mugs & Tumblers",
-"t": "Steel Tumblers",
+"t": "Steel Tumblers & Sippers",
 "code": "SBT",
 "slug": "sbt",
 "items": [
@@ -4733,6 +4739,12 @@ const CATEGORIES = [
 "n": "Christmas Steel Stylo Tumbler",
 "p": "Rs. 650/- each",
 "d": "Stainless steel tumbler with handle, Santa & Christmas prints | MOQ: 4 pcs"
+},
+{
+"c": "SBT-03",
+"n": "Christmas Steel Sipper",
+"p": "Rs. 599/- each",
+"d": "Stainless steel coffee sipper with strap, Christmas prints | MOQ: 4 pcs"
 }
 ]
 }
