@@ -4685,6 +4685,12 @@ const CATEGORIES = [
 "n": "Christmas Steel Sipper",
 "p": "Rs. 599/- each",
 "d": "Stainless steel coffee sipper with strap, Christmas prints | MOQ: 4 pcs"
+},
+{
+"c": "XM-06",
+"n": "Christmas Bubble Gun",
+"p": "Rs. 499/- each",
+"d": "Light-up bubble gun with Santa / snowman / reindeer topper, ages 3+, needs 4 AA batteries | MOQ: 6 pcs"
 }
 ]
 }
