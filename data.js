@@ -4805,6 +4805,12 @@ const CATEGORIES = [
 "n": "Christmas Keychain Pen",
 "p": "Rs. 49/- each",
 "d": "Gel pen with detachable Christmas keychain charm (Santa, tree), red & green | MOQ: 36 pcs"
+},
+{
+"c": "XM-26",
+"n": "Christmas Multi Refill Rubber Pen",
+"p": "Rs. 49/- each",
+"d": "4-colour ball pen with soft rubber Christmas topper (Santa, snowman, tree, bell) | MOQ: 36 pcs"
 }
 ]
 }
@@ -5467,6 +5473,12 @@ const CATEGORIES = [
 "n": "Christmas Keychain Pen",
 "p": "Rs. 49/- each",
 "d": "Gel pen with detachable Christmas keychain charm (Santa, tree), red & green | MOQ: 36 pcs"
+},
+{
+"c": "PN-04",
+"n": "Christmas Multi Refill Rubber Pen",
+"p": "Rs. 49/- each",
+"d": "4-colour ball pen with soft rubber Christmas topper (Santa, snowman, tree, bell) | MOQ: 36 pcs"
 }
 ]
 },
