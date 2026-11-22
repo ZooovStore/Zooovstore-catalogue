@@ -4775,6 +4775,12 @@ const CATEGORIES = [
 "n": "Christmas Wooden Pen Stand",
 "p": "Rs. 89/- each",
 "d": "Square wooden pen / desk organizer, red & green, assorted Christmas designs | MOQ: 30 pcs"
+},
+{
+"c": "XM-21",
+"n": "Christmas Pencil Set 01",
+"p": "Rs. 79/- per set",
+"d": "12 colour pencils in Christmas gift box, assorted designs | MOQ: 24 sets"
 }
 ]
 }
@@ -5451,6 +5457,20 @@ const CATEGORIES = [
 "n": "Christmas Gift Bag 04",
 "p": "Rs. 35/- each",
 "d": "Basket-shape zip-lock gift / candy bag with handle and clear window | MOQ: 50 pcs"
+}
+]
+},
+{
+"g": "Stationery",
+"t": "Pencils",
+"code": "PCL",
+"slug": "pc2",
+"items": [
+{
+"c": "PCL-01",
+"n": "Christmas Pencil Set 01",
+"p": "Rs. 79/- per set",
+"d": "12 colour pencils in Christmas gift box, assorted designs | MOQ: 24 sets"
 }
 ]
 }
