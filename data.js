@@ -4703,6 +4703,12 @@ const CATEGORIES = [
 "n": "Christmas Wooden Piggy Bank",
 "p": "Rs. 125/- each",
 "d": "Hand-painted wooden house money bank, assorted Christmas designs | MOQ: 12 pcs"
+},
+{
+"c": "XM-09",
+"n": "Christmas Wooden Organizer",
+"p": "Rs. 99/- each",
+"d": "Hand-painted gift-box pen / card holder, assorted Christmas designs | MOQ: 24 pcs"
 }
 ]
 }
