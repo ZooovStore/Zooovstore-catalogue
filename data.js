@@ -4811,6 +4811,12 @@ const CATEGORIES = [
 "n": "Christmas Multi Refill Rubber Pen",
 "p": "Rs. 49/- each",
 "d": "4-colour ball pen with soft rubber Christmas topper (Santa, snowman, tree, bell) | MOQ: 36 pcs"
+},
+{
+"c": "XM-27",
+"n": "Christmas Slim Pen",
+"p": "Rs. 22/- each",
+"d": "Slim gel pen with Christmas topper (reindeer, house, Santa, tree) | MOQ: 48 pcs"
 }
 ]
 }
@@ -5479,6 +5485,12 @@ const CATEGORIES = [
 "n": "Christmas Multi Refill Rubber Pen",
 "p": "Rs. 49/- each",
 "d": "4-colour ball pen with soft rubber Christmas topper (Santa, snowman, tree, bell) | MOQ: 36 pcs"
+},
+{
+"c": "PN-05",
+"n": "Christmas Slim Pen",
+"p": "Rs. 22/- each",
+"d": "Slim gel pen with Christmas topper (reindeer, house, Santa, tree) | MOQ: 48 pcs"
 }
 ]
 },
