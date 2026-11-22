@@ -5337,6 +5337,21 @@ const CATEGORIES = [
 "name": "Bags",
 "icon": "👜",
 "slug": "bags",
-"subs": []
+"subs": [
+{
+"g": "Bags",
+"t": "Mini Bags & Charms",
+"code": "BG",
+"slug": "bg",
+"items": [
+{
+"c": "BG-01",
+"n": "Mini Tote Bag Charm",
+"p": "Rs. 450/- each",
+"d": "Mini leather-look tote with chain & hook, bag charm / keychain | MOQ: 4 pcs"
+}
+]
+}
+]
 }
 ];
