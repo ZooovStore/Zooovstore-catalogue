@@ -4757,6 +4757,12 @@ const CATEGORIES = [
 "n": "Christmas Tin Piggy Bank",
 "p": "Rs. 99/- each",
 "d": "House-shape tin money bank with lock & key, assorted colours | MOQ: 24 pcs"
+},
+{
+"c": "XM-18",
+"n": "Christmas Plushy Pouch Keychain",
+"p": "Rs. 99/- each",
+"d": "Fluffy zip coin pouch with clip, embroidered Christmas designs | MOQ: 12 pcs"
 }
 ]
 }
@@ -5346,6 +5352,20 @@ const CATEGORIES = [
 "n": "Bow-Tie Penguin Plushy Keychain",
 "p": "Rs. 175/- each",
 "d": "Gingham bow tie | MOQ: 4 sets (8 pcs)"
+}
+]
+},
+{
+"g": "Plushy Keychains",
+"t": "Christmas Pouch Keychains",
+"code": "ZS",
+"slug": "pk-xmas",
+"items": [
+{
+"c": "ZS-78",
+"n": "Christmas Plushy Pouch Keychain",
+"p": "Rs. 99/- each",
+"d": "Fluffy zip coin pouch with clip, embroidered Christmas designs | MOQ: 12 pcs"
 }
 ]
 }
