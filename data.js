@@ -4667,6 +4667,12 @@ const CATEGORIES = [
 "n": "Cork Light (Red, Green, Blue)",
 "p": "Rs. 999/- per packet",
 "d": "Bottle cork LED string light, multicolour | 1 Packet = 30 Lights"
+},
+{
+"c": "LM-02",
+"n": "Cork Light (Warm White)",
+"p": "Rs. 999/- per packet",
+"d": "Bottle cork LED string light, warm white | 1 Packet = 30 Lights"
 }
 ]
 }
