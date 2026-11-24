@@ -3807,6 +3807,12 @@ const CATEGORIES = [
 "c": "BC-13",
 "p": "Rs. 99/- each",
 "d": "Set: 2 Beads Bangles + 1 Sindoor + 1 Bindi"
+},
+{
+"c": "BC-14",
+"n": "Shringar Combo – Bangles, Sindoor & Bindi",
+"p": "Rs. 65/- per set",
+"d": "Set: 2 pearl & gota beaded bangles + 1 decorated sindoor + 1 bindi packet"
 }
 ]
 },
